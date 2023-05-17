@@ -5,7 +5,7 @@ permalink: /
 
 ### When & where
 
-**DATE, at VENUE in CITY**
+**October 17-18 in Minneapolis!**
 
 ### About {{ page.event_name }}
 
