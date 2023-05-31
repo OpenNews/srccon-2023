@@ -9,7 +9,7 @@ permalink: /
 
 **[We’re accepting session proposals through Wednesday, June 14](/participation/form).** Thinking about an idea for SRCCON 2023? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
 
-SRCCON sessions are workshops, not panels. Conversations, not presentations. We're looking for [topics you don't see at traditional journalism conferences](/sessions/proposal-guide/#what-we-look-for), and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers—if you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org)).
+SRCCON sessions are workshops, not panels. Conversations, not presentations. This is a hands-on event about changing journalism—we're looking for [topics you don't see at traditional conferences](/sessions/proposal-guide/#what-we-look-for), and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers. If you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org)).
 
 Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by June 28. If invited to attend or facilitate a session, you will receive a link to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
 
