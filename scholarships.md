@@ -6,13 +6,13 @@ title: Scholarships
 
 # Scholarships for {{ page.event_name }}
 
-We want to help you attend {{ page.event_name }}: OpenNews offers a limited number of scholarship tickets and travel or caregiving scholarships.
+We want to help you attend {{ page.event_name }}. OpenNews offers a limited number of scholarship tickets and travel or caregiving scholarships.
 
 ### About the scholarship process
 
 There's no separate application. We offer two scholarship options:
 
-* **Free scholarship tickets** - these will be available directly on our registration page, no application necessary. After you fill out our [call for participation](/participation/form), if we're able to invite you to attend, we'll send a link to register on Eventbrite. On that page, there will be an option to pick up one of our limited number of free scholarship tickets.
+* **Free scholarship tickets** - these will be available directly on our registration page, no application necessary. After you fill out our [call for participation](/participation/form), if we're able to invite you to attend, we'll send a link to register on Eventbrite. On that page, there will be an option to pick up one of a limited number of free scholarship tickets.
 * **$500 travel or caregiving scholarships** - these scholarships are to compensate for travel or caregiving costs. The scholarship can be applied toward your own travel costs or to bring your loved ones to Minneapolis, or help care for them back home while you're at the conference. You can apply for a scholarship right on [our call for participation form](/participation/form/), which closes for scholarship applications on June 14. Recipients of this scholarship will also receive a free ticket to SRCCON.
 
 ## Who should apply

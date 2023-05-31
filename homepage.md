@@ -7,19 +7,21 @@ permalink: /
 
 # Our call for participation is open!
 
-**We’re accepting session proposals through Wednesday, June 14.** Thinking about an idea for SRCCON 2023? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
+**[We’re accepting session proposals through Wednesday, June 14](/participation/form).** Thinking about an idea for SRCCON 2023? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
 
-SRCCON sessions are workshops, not panels. Conversations, not presentations. [We're looking for topics you don't see at traditional journalism conferences](/sessions/proposal-guide/#what-we-look-for), and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers—if you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org))!
+SRCCON sessions are workshops, not panels. Conversations, not presentations. We're looking for [topics you don't see at traditional journalism conferences](/sessions/proposal-guide/#what-we-look-for), and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers—if you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org)).
 
-Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by June 28. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $250 plus fees](/participation/#tickets).
+Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by June 28. If invited to attend or facilitate a session, you will receive a link to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
 
 ## Key dates for your calendar
 
 * **May 31**: call for participation opens
 * **June 14**: call for participation for sessions and scholarships closes
 * **June 28**: last day by which participants will be notified
+* **After June 28**: we'll review more participation forms for attendees only, on a rolling basis until the conference
+* **October 17-18**: SRCCON takes place in Minneapolis, MN
 
-Curious about how it all works? Learn more about [being a participant at SRCCON](/participation) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2023, our call for participation is how to let us know! As space remains available, we will keep the call for participation open for tickets after the June 14 deadline, but applying by that date is your best chance to attend.
+Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2023, our call for participation is how to let us know! As space remains available, we will keep the call for participation open for tickets after the June 14 deadline, but applying by that date is your best chance to attend.
 
 ### When & where
 
@@ -50,6 +52,12 @@ SRCCON events are highly participatory, where participants come first so they ca
 ### Who attends SRCCON events
 
 Our participants represent organizations ranging from massive to tiny, and come from all over the U.S. and many other countries. SRCCON participants are developers, designers, journalists, editors, and allies: the practitioners and leaders who are transforming their newsrooms into more representative and innovative places to work. Participants come to SRCCON to change journalism by creating more intentional processes, better relationships with the communities they cover, and new ways to engage and inform people.
+
+### How much does it cost?
+
+[Ticket prices start at $250](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as travel or caregiving $500](/scholarships).
+
+SRCCON events don't have open sale dates or lotteries. If you want to come to {{ page.event_name }}, our [call for participation](/participation/form) is how to let us know.
 
 ### What's next
 

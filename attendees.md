@@ -28,9 +28,13 @@ Here are the tiers (plus Eventbrite ticketing fees):
 * **$375:** A new ticket price for people from medium-sized news organizations of 51-250 employees, nonprofits with budgets $750,000-$2 million, and other similar-sized organizations.
 * **$695:** This ticket tier reflects very nearly the actual cost for each attendee of SRCCON and is for people from large news organizations with more than 250 employees, nonprofits with budgets over $2 million, and other organizations that provide full professional-development budgets for employees.
 
-These tiers work on an honor system. We’ll ask attendees to register for their ticket by picking the tier that best reflects their situation, with the descriptions as guidelines not requirements. This system is not meant to imply people should feel obligated to pay a higher price. It's our attempt at responding to community feedback encouraging us to find ways to share event costs.
- 
-These ticket sales are part of what enables us to organize an event with dozens of travel and caregiving scholarships, live transcription, two lunches, dinner, and ample snacks and drinks, and the support of a skilled event team in preparing sessions and constructing a schedule that lets attendees focus on learning and talking together. 
+In addition, we also offer a [free scholarship ticket](/scholarships) as one of the tiers. We have a limited number of free tickets set aside for people who otherwise would not be able to attend, in particular for laid-off and freelance journalists. We also give priority to people who identify as members of communities underrepresented in journalism and technology, such as journalists of color, and journalists from smaller and non-coastal newsrooms.
+
+**Here's the most important thing to know about these ticket prices:** _We want you to choose the one that makes sure you can be at {{ page.event_name }}._ We don't review who pays what, and we won't follow up with any questions. If you work for an organization where budgets have already been set or there's not support available to you, _choose a lower price_ and join us. By the same token, if you budgeted for higher travel costs you no longer have to spend and are able to purchase a ticket at a higher tier, please do. If you're interested in contributing to a scholarship ticket, please pick the highest ticket tier you can afford. Paying for free tickets and scholarships is something we deliberately build into our ticket tier structure. 
+
+We based these tiers on community feedback encouraging us to find ways to share event costs. Ticket funds are a huge part of what makes it possible to organize event with dozens of travel and caregiving scholarships, live transcription, two lunches, dinner, and ample snacks and drinks, and the support of a skilled event team in preparing sessions and constructing a schedule that lets attendees focus on learning and talking together.
+
+If you have any questions at all about ticket pricing, [please reach out](mailto:srccon@opennews.org).
 
 ## Not just attendees, but participants
 

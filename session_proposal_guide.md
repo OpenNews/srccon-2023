@@ -91,7 +91,7 @@ And we believe that conferences like SRCCON are where amazing work only _begins_
 
 #### Is there financial support for session facilitators? Do facilitators have to purchase a ticket?
 
-Yes, financial support is available. We have [scholarship tickets and stipends](/scholarships) to help you attend or cover unpaid time preparing to facilitate your session.
+Yes, financial support is available. We have [travel and caregiving scholarships](/scholarships) to help you get to Minneapolis. We also offer a free, scholarship ticket option.
 
 Because SRCCON is a collaborative, peer-to-peer event, we do ask that all participants, including facilitators, pick up a ticket. This [approach to ticketing](/attendees/#tickets) is part of how we make the event accessible to as many people as we can. If you or your company are not able to pay for a ticket, there will be an option right on the Eventbrite registration form to pick up a free scholarship ticket directly.
 
