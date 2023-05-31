@@ -6,7 +6,7 @@ title: Volunteers
 
 # Volunteer at a SRCCON event
 
-We need YOU to help make each SRCCON work. In addition to participants leading sessions throughout our conferences, we also need a small group of people to help us keep things running smoothly. Want to help? Consider volunteering.
+We need YOU to help make SRCCON work. In addition to participants running sessions throughout the conference, we'll also need a small group of people to help us keep the two-day event running smoothly. Want to help? Consider volunteering at SRCCON.
 
 Volunteers will help with:
 
@@ -17,4 +17,4 @@ Volunteers will help with:
 
 Volunteering will be a significant time commitment. For offering that time and missing out on some (but not all!) of the festivities, you will have our gratitude, free entry to the event, a SRCCON Volunteer T-shirt, and the knowledge that you played an integral role in making SRCCON a success.
 
-If you want to attend a SRCCON event and are excited about playing this type of vital support role, [please email us for information](mailto:srccon@opennews.org) about volunteering.
+If you want to attend SRCCON and are excited about playing this type of vital support role, [please email us for information](mailto:srccon@opennews.org) about volunteering.

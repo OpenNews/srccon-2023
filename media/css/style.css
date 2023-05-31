@@ -159,6 +159,10 @@ strong {
     font-size: .83em;
 }
 
+.hub main h2 {
+    margin-top: 1.33em;
+}
+    
 .page-divider,
 .hub main h3 {
 	display: flex;
