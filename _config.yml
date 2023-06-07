@@ -1,4 +1,5 @@
-name: SRCCON
+name: SRCCON 2023
+url: https://2023.srccon.org
 markdown: kramdown
 kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
