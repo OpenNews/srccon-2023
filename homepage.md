@@ -7,7 +7,7 @@ permalink: /
 
 # Our call for participation is open!
 
-**[We’re accepting session proposals through Wednesday, June 16](/participation/form).** Thinking about an idea for SRCCON 2023? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
+**[We’re accepting session proposals through Friday, June 16](/participation/form).** Thinking about an idea for SRCCON 2023? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
 
 SRCCON sessions are workshops, not panels. Conversations, not presentations. This is a hands-on event about changing journalism—we're looking for [topics you don't see at traditional conferences](/sessions/proposal-guide/#what-we-look-for), and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers. If you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org)).
 
