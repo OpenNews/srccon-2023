@@ -30,7 +30,7 @@ We avoid traditional lectures and classroom-style trainings, and you might notic
 
 #### Key dates
 
-* **Wednesday, June 14**: Deadline to submit session proposals and stipend applications using our call for participation form
+* **Wednesday, June 16**: Deadline to submit session proposals and stipend applications using our call for participation form
 * **By Wednesday, June 28**: Facilitators and stipend applicants will be notified
 * **October 17-18**: SRCCON 2023, in Minneapolis!
 
