@@ -3,25 +3,22 @@ section: homepage
 permalink: /
 ---
 
-### Help us build this year's program
+### Be a part of SRCCON 2023
 
 # Our call for participation is open!
 
-**[We’re accepting session proposals through Friday, June 16](/participation/form).** Thinking about an idea for SRCCON 2023? Take a look at [our proposal guide](/sessions/proposal-guide/), then [tell us all about it](/participation/form)!
+**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
 
-SRCCON sessions are workshops, not panels. Conversations, not presentations. This is a hands-on event about changing journalism—we're looking for [topics you don't see at traditional conferences](/sessions/proposal-guide/#what-we-look-for), and sessions that help people imagine a better future together. Our whole program (including breaks and meals!) is about discussion and connection as peers. If you haven't led a session like that before, our [proposal guide](/sessions/proposal-guide/) is here to help (and [so are we](mailto:srccon@opennews.org)).
-
-Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. We will review entries and notify everyone by June 28. If invited to attend or facilitate a session, you will receive a link to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
+Our deadline for proposing sessions has already passed, but we'll keep our [call for participation form](/participation/form) open for attendees as long as we have space!
 
 ## Key dates for your calendar
 
-* **May 31**: call for participation opens
 * **June 16**: call for participation for sessions and scholarships closes
 * **June 28**: last day by which participants will be notified
 * **After June 28**: we'll review more participation forms for attendees only, on a rolling basis until the conference
 * **October 17-18**: SRCCON takes place in Minneapolis, MN
 
-Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2023, our call for participation is how to let us know! As space remains available, we will keep the call for participation open for tickets after the June 16 deadline, but applying by that date is your best chance to attend.
+Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2023, our call for participation is how to let us know!
 
 ### When & where
 
