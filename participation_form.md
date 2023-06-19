@@ -12,4 +12,4 @@ After we review your form, we will let you know whether you are invited to atten
 
 Please feel free to reach out to us at [srccon@opennews.org](mailto:srccon@opennews.org) with any questions. If you're all set, the participation form is below!
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrUhEFD95klupkAL?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="5155" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrz77ajeChAU5Jly?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
