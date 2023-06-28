@@ -28,6 +28,7 @@ We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://ww
 
 We're excited to be back in Minneapolis! SRCCON 2023 will be in-person only. There will not be a hybrid or virtual version of this event. We will continue to offer virtual programming throughout the year, such as our [bi-weekly community calls](https://opennews.org/what/community/calls), and expect that several sessions will be documented publicly on our site Source.
 
+<span id="covid-safety"></span>
 #### COVID safety guidelines
 
 At SRCCON, we prioritize caring for each other. One way we'll do that this year is by masking throughout the conference while indoors and not actively eating, drinking, or facilitating. We're excited to be back at our longtime SRCCON venue, but it's a spot without windows that open or outdoor session spaces. Given that our options for improved air flow are limited, we've decided to use a tool we've all gotten very familiar with: masks!
