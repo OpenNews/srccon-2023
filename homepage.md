@@ -24,11 +24,17 @@ Curious about how it all works? Learn more about [being a participant at SRCCON]
 
 On October 17-18 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
-Once tickets are sold, we'll be opening up a discounted block of rooms for participants at a nearby hotel.
+We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $139 per night. We will have a link to reserve a room to share soon. The Graduate Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather.
 
 We're excited to be back in Minneapolis! SRCCON 2023 will be in-person only. There will not be a hybrid or virtual version of this event. We will continue to offer virtual programming throughout the year, such as our [bi-weekly community calls](https://opennews.org/what/community/calls), and expect that several sessions will be documented publicly on our site Source.
 
-We are still developing our COVID safety policy for this event. It will be published when ticket sales open. We're gathering examples from other conferences such as [PyCon](https://us.pycon.org/2023/about/health-safety-guidelines/) and [ONA](https://ona23.journalists.org/faq/#1648654048660-8ffe33ac-5321), and considering the specific needs and values of the OpenNews community as well. If you have any input, concerns, or needs, [reach out to us](mailto:srccon@opennews.org).
+#### COVID safety guidelines
+
+At SRCCON, we prioritize caring for each other. One way we'll do that this year is by masking throughout the conference while indoors and not actively eating, drinking, or facilitating. We're excited to be back at our longtime SRCCON venue, but it's a spot without windows that open or outdoor session spaces. Given that our options for improved air flow are limited, we've decided to use a tool we've all gotten very familiar with: masks!
+
+We will be modeling our COVID safety policies largely off of the [PyCon 2023 policies](https://us.pycon.org/2023/about/health-safety-guidelines), which means we will be requiring masking while indoors throughout the conference. We'll have ample masks available, and encourage participants to bring their preferred N95, KN95, or similar masks as well. Exceptions to masking indoors include while consuming food, for speakers when presenting, and when necessary to communicate with someone who is hearing impaired. 
+
+We also strongly encourage all participants to be up to date on their vaccinations. We will further update this policy as we get closer to the event. If you have any questions or need further information now, please [reach out to us](mailto:srccon@opennews.org).
 
 ### What you can expect
 
