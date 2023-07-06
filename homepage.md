@@ -7,15 +7,16 @@ permalink: /
 
 # Our call for participation is open!
 
-**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
+**Attend SRCCON:** [Our call for participation form is open](/participation/form) with questions to tell us how you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
 
-Our deadline for proposing sessions has already passed, but we'll keep our [call for participation form](/participation/form) open for attendees as long as we have space!
+**Our program:** We just published [our initial list of accepted sessions](/program/), so take a look at what we have planned for this year!
+
+There's still plenty of room to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
 
 ## Key dates for your calendar
 
-* **June 16**: call for participation for sessions and scholarships closes
-* **June 28**: last day by which participants will be notified
-* **After June 28**: we'll review more participation forms for attendees only, on a rolling basis until the conference
+* **By June 28**: Anyone who proposed a session or applied for a scholarship by June 16 has been notified
+* **On a rolling basis**: We'll continue to review participation forms for attendees only
 * **October 17-18**: SRCCON takes place in Minneapolis, MN
 
 Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2023, our call for participation is how to let us know!
