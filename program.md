@@ -15,11 +15,11 @@ We'll publish the complete schedule with session dates and times soon.
 Thank you to the [community panel](#community-review) that helped us during our review process! Our conference schedule this year will include the sessions below.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
-{% for proposal in site.data.sessions %}
-    <div class="session-proposal" id="proposal-{{ proposal.id }}">
-        <h4 class="session-title"><a href="#proposal-{{ proposal.id }}">{{ proposal.title }}</a></h4>
-        {% if proposal.facilitators %}<p class="facilitator">Facilitated by {{ proposal.facilitators }}</p>{% endif %}
-        <p class="session-description">{{ proposal.description | markdownify }}</p>
+{% for session in site.data.sessions %}
+    <div class="session-proposal" id="session-{{ session.id }}">
+        <h4 class="session-title"><a href="#session-{{ session.id }}">{{ session.title }}</a></h4>
+        {% if session.facilitators %}<p class="facilitator">Facilitated by {{ session.facilitators }}</p>{% endif %}
+        <p class="session-description">{{ session.description | markdownify }}</p>
     </div>
 {% endfor %}
 </div>

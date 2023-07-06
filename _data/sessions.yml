@@ -1,228 +1,266 @@
 [
   {
     "index": "Amihere 2023-06-16T23:05:15.000Z",
+    "id": "your-data-is-racist",
     "title": "Your data is racist...\": What does equitable data journalism look like when the data itself is biased?",
     "facilitators": "Dana Amihere",
     "description": "Data is EVERYWHERE. Our social interactions, activities and behaviors create a lot of data. And, your data, our data, is racist. This is more than chatbots going rogue. The collection, implementation and presentation in data journalism—the same frameworks which underpin many of our new emerging technologies—are inherently biased. With that in mind, how do we have meaningful conversations about data equity, social justice and data justice?"
   },
   {
     "index": "Maxwell 2023-06-16T20:24:59.000Z",
+    "id": "local-news-emergencies",
     "title": "A local news go bag: Reporting with care when emergencies hit home",
     "facilitators": "Kate Maxwell",
     "description": "Have you experienced being in the middle of an emergency and disaster, or reported on one? It has been said that all reporters will become climate reporters, and this session seeks to explore that possibility and what it means in practice. Life-threatening emergencies are when communities most need reliable information, and also when the most marginalized are at the center of the impact. Whether it's a wildfire or a winter storm, the biggest challenges are often about getting reliable info to those who need it most, and these challenges are best faced by activating existing community connections.\n\nThis session seeks to examine what frameworks, resources, and tools we can share in order to prepare for the unexpected, bringing together the lived experiences of participants with case studies and examples of local reporting before, during, and after such events. This session will explore how the act of sharing information and journalism can be a form of mutual aid, building trust and creating change, especially as climate change is bringing a new scale of disasters into our everyday lives. Participants will leave with a shared resource they can use during their own work."
   },
   {
     "index": "Duncan 2023-06-15T18:17:15.000Z",
+    "id": "agenda-watch",
     "title": "Agenda Watch",
     "facilitators": "Kat Duncan",
     "description": "The new Agenda Watch platform, built by Big Local News at Stanford University and the Reynolds Journalism Institute, is now live and free to help journalists access local government data. Local governments across the country must notify the public of upcoming discussions (agendas) and provide a record of their meetings (minutes). Agenda Watch harvests those documents on a daily basis from agencies across the country. This platform also makes them searchable, and you can subscribe to receive alerts when topics of interest crop up in your community’s documents. \n\nWe will demo this platform for you, show you how it's been used in journalism across the country, give you time to try it yourself and answer questions!"
   },
   {
     "index": "Valeeva 2023-06-13T19:42:15.000Z",
+    "id": "healthy-data-relationships",
     "title": "Building healthy data relationships in the newsroom",
     "facilitators": "Anastasia Valeeva, Mago Torres",
     "description": "In newsrooms big and small, we are often setting out to change the data culture from within the newsroom to enable more collaborations, make sure the time needed for data reporting is valued, or that beat reporters understand data well enough to ask questions. \n\nWe can resolve to do this through things like data office hours, a dedicated Slack channel, a series of classes, and whatnot. But sometimes those things don’t work exactly as we had hoped. Something takes longer, something turns to be resistant to change. Or maybe we are the problem, and we should change our approach?\n\nThis session is essentially about building healthy data relationships across the newsroom from the bottom up."
   },
   {
     "index": "Arthur 2023-06-14T19:17:31.000Z",
+    "id": "communicate-dont-infuriate",
     "title": "Communicate, don’t (just) infuriate: Strengthening how journalism converses with the world",
     "facilitators": "Allen Arthur",
     "description": "Journalists often aspire to huge impacts. Our coverage, they imagine, will help people mobilize to vote against a corrupt politician or speak out en masse to demand change. Yet these outcomes require behavior change—people must do something they wouldn’t otherwise do. So does the industry actually communicate in a way that encourages those behavior changes? \n\nOften the answer is no, as we continually return to language that deepens conflict or (unintentionally) encourages disengagement. Thankfully, there are examples of healthier, holistic communication techniques within journalism and in surprising fields outside of it that can contribute to bringing communities together and getting problems solved. In an interactive session, we'll share research from journalism, neuroscience, community psychology, narrative, and more. Journalists will unlock new ways of interviewing, reporting, and talking about stories that contribute to feelings of agency and connectedness rather than defeating them."
   },
   {
     "index": "Wallace 2023-06-17T01:07:53.000Z",
+    "id": "covering-community-safety",
     "title": "Covering community safety",
     "facilitators": "Lewis Raven Wallace",
     "description": "What is “safety” and why is it such a catch phrase for politicians and police? What questions and perspectives can journalists integrate into our work from the work of the movements to defund and abolish police and prisons?\n\nIn this session, we will break down our assumptions about what “safety” means in our day-to-day lives and in news reporting. We will explore strategies for covering safety that don’t depend on faulty assumptions or crude statistics such as “crime” stats reported by government entities, and share examples from local outlets like MLK50 and KC Defender who are covering safety with a transformative, critical lens. We will reflect collectively on what it means for journalists to reimagine safety, and what kinds of stories and media projects can facilitate reimagining toward a more just world.\n\nObjectives: \n\n* Break down assumptions about what “safety” means\n* Explore strategies for covering safety and leave with examples and inspirations for covering safety from a transformative lens"
   },
   {
     "index": "Roy 2023-06-17T00:03:25.000Z",
+    "id": "roadmap-ai-products",
     "title": "Creating a roadmap for building your Generative AI products",
     "facilitators": "Nikita Roy, Ryan Restivo",
     "description": "We are navigating the early days of Generative AI, a technology that is quickly shaping our world. In this session, we will dive into examples of how we built Generative AI products and share our learnings from unanticipated challenges, surprising discoveries, and the journey of building AI products. We will work in teams to think about more ways to use this new technology, to help us find more use cases within newsrooms to optimize workflows and increase efficiency without compromising journalistic integrity. By the end of the session we’ll create a roadmap that you can use for your own AI-driven product development journey."
   },
   {
     "index": "Johnson 2023-06-15T20:52:57.000Z",
+    "id": "creativity-creativitys-sake",
     "title": "Creativity for creativity’s sake",
     "facilitators": "Chelsea Johnson, Heather Bryant",
     "description": "So much of our professional lives require creativity on demand. But creativity is not for the sole purpose of productivity. Join this session to rediscover the magic of making things, learn what others are creating outside of work and sharing ways to bring creativity back into our every day. Let’s make space together to remember how it feels to be creative without fear of being penalized or pursuing monetization and productivity.\n\nThe session will include lightning-round presentations of participants’ creative efforts outside of work and a group conversation on rediscovering the joy of making and creating things for ourselves, not just our work. As we discuss topics, participants are encouraged to interact and play with various creative materials which we’ll provide."
   },
   {
     "index": "Myers 2023-06-14T17:51:40.000Z",
+    "id": "dont-believe-hype",
     "title": "Don't believe the hype: How to stay grounded amid the latest tech bandwagon and encourage your colleagues to do the same",
     "facilitators": "Justin Myers",
     "description": "AI's all the rage right now, often serving as a deus ex machina that will save industries from all their ills, much like blockchains were a few years ago. (And who knows what's next?) How can we maintain a journalist's skepticism amid all the hyperbole, while still remaining open to the legitimately useful and realistic benefits these technologies can offer?\n\nLet's vent, and let's share! Swap strategies and talking points that might help calm panicky colleagues, and talk about what actually has excited you about the various trendy technologies of the last several years."
   },
   {
     "index": "O'Dea 2023-06-16T20:03:34.000Z",
+    "id": "elevating-collaboration",
     "title": "Elevating the work without being a jerk",
     "facilitators": "Janelle O'Dea, Jennifer LaFleur",
     "description": "Working with other journalists can be tough. We all have knowledge and valuable skillsets to bring to the table, so how do we best collaborate and teach each other? Collaborative journalism continues to publish some of the industry's most groundbreaking and revelatory work. This session will focus on how to collaborate and share knowledge without being pushy, a know-it-all or telling your collaborators what and how to do. We'll brainstorm what works and what doesn't work for you."
   },
   {
     "index": "Cai 2023-06-16T23:29:25.000Z",
+    "id": "election-results-reporting",
     "title": "Ending the horse race: What value can we find in election results reporting?",
     "facilitators": "Mandi Cai, Tyler Fisher",
     "description": "As we gear up for the 2024 elections, we’re posing these questions: What value is your live election results coverage providing to readers? And if it’s not providing anything useful or unique, why are you doing it? We often see election results as a reader service, a beacon of transparency and accountability, but they may exacerbate reader anxiety. Election forecasting efforts are often misunderstood by readers. And we know the conversation doesn’t stop after a checkmark appears saying the race has been called. For this session, let’s break out of institutional constraints and reimagine how we could run election results with readers, while understanding what they get out of live results.\n\nWe will discuss challenges to designing real-time data visualizations, which can create feelings of uncertainty for what is ultimately a knowable outcome. We will brainstorm better priorities for election results reporting and explore designs that emphasize those new priorities. Ultimately, we hope participants leave inspired and encouraged to lean into the special context they can bring to coverage on our democratic processes, even if that means letting go of something that’s always been done."
   },
   {
     "index": "Zuegner 2023-06-14T18:49:03.000Z",
+    "id": "innovative-meeting-design",
     "title": "Enhancing collaboration and managing conflict with innovative meeting design",
     "facilitators": "Carol Zuegner, Mary Lee Brock",
     "description": "In every news org—as in all systems and groups—there are things that are working, yet we tend to devote our energy to fixing (or ignoring) problems. Appreciative Inquiry (the other AI) is a collaborative, strengths-based approach to generate meaningful dialogue and discussion to support change in groups, teams and organizations by discovering strengths using questions that matter.  \n\nIn this session we will collectively design a better way to collaborate in our newsrooms. We will review the wisdom of the practice of Appreciative Inquiry, facilitate discussion around issues of collaboration and conflict facing newsrooms and workgroups, demonstrate how Appreciative Inquiry can be leveraged, and give participants the opportunity to build skills.\n\nIn this workshop participants will:\n\n* Learn an overview of the Appreciative Inquiry model\n* Discover concepts to improve the design of meetings\n* Explore reframing questions that make a difference\n* Practice design and dialogue that builds on strengths\n\nUltimately, participants will leave with improved communication skills and a framework for conflict resolution to share with their newsrooms to make working together, better."
   },
   {
     "index": "Pilhofer 2023-06-17T10:33:38.000Z",
+    "id": "failure-is-an-option",
     "title": "Failure is an option",
-    "facilitators": "Aron Pilhofer",
+    "facilitators": "Aron Pilhofer, Heather Bryant",
     "description": "Failure is a fact of life. And yet, in an industry rife with failure, it's something rarely discussed openly and honestly. Or even at all. Go to just about any journalism conference, and you'd think the industry was never better. Everything is a huge success, all the charts are trending top right. But we know this is nonsense. At precisely the time when we need to be honest and open about what's working and what isn't, this sort of performative hand-waving is not only unhelpful, it's unhealthy.\n\nThis session we hope to change that, if just for a an hour or so. We have two goals: First, to work collaboratively in order to model a safe space in which to discuss failure openly and productively. Second, we hope to emerge with ways to document and learn from what didn't go well in ways that benefit the industry as a whole."
   },
   {
     "index": "Haslanger 2023-06-16T18:34:06.000Z",
+    "id": "editors-numeric-goals",
     "title": "For the first time, we gave our editors numeric goals (\"No, they aren't quotas.\"). Here's how that went.",
     "facilitators": "Julia Haslanger, Patrick Kerkstra",
     "description": "One year ago, The Philadelphia Inquirer gave editors specific numeric goals to strive for, in addition to their journalistic goals. Here's how we picked which numbers to focus on, how we set the goals, how the editors reacted, and how we made adjustments for the second year. \n\nWe will address implementation challenges, including theoretical (is this even a good idea?), technical (how do we track these?) and cultural (how does this work within the culture of the newsroom?). We'll highlight successes in all three areas, too.\n\nAnd, most of all, we'd love to have folks talk about their own experiences in newsrooms that have established goals for journalists. What kinds of goals are motivating? What kinds of goals are detrimental to the work and/or to the journalists?"
   },
   {
     "index": "Dempsey 2023-06-16T22:20:10.000Z",
+    "id": "smaller-newsrooms-data-reporting",
     "title": "How can smaller newsrooms set themselves up for success in data-driven reporting?",
     "facilitators": "Pam Dempsey",
     "description": "Data- and document-driven journalism is universally challenging for many reasons. It requires specific skills to obtain, clean and analyze information, report the findings and present the story in an engaging and understandable way. A data-driven reporter may need strong support from other reporters, editors, access to tools and other resources to produce this kind of story. For smaller, local newsrooms the challenges are amplified. Funding is only one important step.\n\nFor the last two years, the Data-Driven Reporting Project (DDRP) has awarded financial support to local news organizations to amplify data-and-document driven reporting. Along the way, we’ve learned about some of the gaps that can prevent a newsroom from completing a successful project.\n\nJoin us to share your stories of what has worked (or has not) to build data journalism capacity—what are the skills, roles and tools needed.  Together, let’s find other ways to work with our community to build support networks and capacity."
   },
   {
     "index": "Waananen Jones 2023-06-16T20:39:42.000Z",
+    "id": "measure-news-industry",
     "title": "How can we better measure the news industry?",
     "facilitators": "Lisa Waananen Jones",
     "description": "Journalists have proved to be excellent at finding, collecting, and sharing data, but when it comes to our own industry we're often stuck with anecdotes and estimates. What data do we need about newsrooms and our industry? And what potential sources and methods would get us the information we need? In this session, we'll have a structured conversation about these questions, informed by an overview of past and existing data projects about newsroom diversity, salaries, layoffs, and the state of local news. We'll use an abbreviated \"information needs\" assessment that's more commonly applied to news audiences, and instead turn it on ourselves: How do we currently get information about our own industry, what are the gaps, and what would it take to fill them? We'll share ideas and barriers, and talk through plans."
   },
   {
     "index": "Cima 2023-06-12T14:29:42.000Z",
+    "id": "epistemology-for-journalists",
     "title": "How do you know what you think you know?: Epistemology for journalists",
     "facilitators": "Rosie Cima",
     "description": "Every field has its own standards of proof and tools for getting there: The sciences have the scientific method and lots of statistical tests and techniques, anthropology has ethnography, history and literature have close readings of primary sources, philosophy and math have the logical proof from axioms, law has litigation and a bunch of rules about what evidence and techniques are allowed. I don't think I've ever seen someone specify a single \"journalistic standard of proof,\" and I suspect lots of people in the same newsroom, sometimes even working on the same story, approach truth and knowledge from very different angles. This can be a culture shock for people coming to journalism from another field, and also a reason \"outsiders\" often do so well!\n\nIn this session, we're going to explore how we know what we know, as a step towards defining our own personal and professional epistemics. We'll discuss how different fields might approach the same question through applying different lenses to real-world stories: \"What would it take to convince an anthropologist/biologist/lawyer/etc this story is true? How about 'true enough'?\" We'll also share personal experiences of when our standard of proof conflicted with someone else's, be it a colleague, reader, source, subject, or editor's. We'll talk about what it feels like when these clashes are destructive, and our strategies to instead make them enriching."
   },
   {
     "index": "Petrin 2023-06-13T22:04:48.000Z",
+    "id": "using-lgbtq-data",
     "title": "How to use bad and limited LGBTQ+ data responsibly",
     "facilitators": "Kae Petrin, Jasmine Mithani",
     "description": "Data can contextualize reporting about lived experience at scale. That's an increasingly important task in reporting on LGBTQ+ communities as nearly 500 anti-LGBTQ+ bills trickle through statehouses across the U.S.\n\nBut data on LGBTQ+ people is notoriously sparse and inconsistent, especially at the federal level. Often, journalists must instead rely on state or municipal data, advocacy group surveys or reports, and polls, which each come with their own unique problems. Data and data visualization lend authority and concretize trends in audiences' minds, so it's important to handle them responsibly—especially when reporting on communities living through active attempts to roll back their civil rights. We'll talk about what data's out there, how to use it in reporting and visual work, when not to use it, how to think through common reporting problems, and how to get editors on board with a pitch about tricky data."
   },
   {
     "index": "Walsh 2023-06-15T19:36:42.000Z",
+    "id": "build-trust-cms",
     "title": "How to use your CMS to build trust",
     "facilitators": "Lynn Walsh",
     "description": "We know transparency and engagement can help build trust between journalists and the public. The good news is most journalists are now open and willing to try strategies related to both. The problem: Sometimes doing this work means interrupting the current workflows that exist and so adding transparency or engaging with your audience becomes an afterthought or an add on (additional work). This means it does not get prioritized and is less likely to happen. So, how can we make that easier? How can technology and/or news products help with that?\n\nAt Trusting News we have seen several newsrooms use their CMS to build in tools that make adding transparency elements and/or engagement opportunities easier for journalists to do in their daily reporting. We have also learned that when it's in the CMS and easy for journalists to implement, they are more likely to do it. The more this happens, the more opportunity there is for people to be exposed to this type of journalism, which can hopefully improve trust in news overall. I can share examples of what newsrooms have done BUT would also really love to hear what other ideas people have and help them create them."
   },
   {
     "index": "Wilburn 2023-06-04T01:58:30.000Z",
+    "id": "scraping-dev-tools",
     "title": "I am once again begging you to stop teaching students to scrape websites with Selenium (or: Learning HTTP via the Chrome Dev Tools network tab)",
     "facilitators": "Thomas Wilburn",
     "description": "For at least a decade, data journalists have turned to Selenium and other browser automation tools in order to handle difficult websites—a habit that, over time, has metastasized into using them by default, despite being clunky, resource-hungry, and difficult to debug. In this session, we'll learn a better way: by exploring several \"problem\" sites in the Chrome dev tools, we'll get better acquainted with the underlying HTTP interactions in a language-agnostic way, familiarize ourselves with the patterns that are most often used on the modern web, and develop scraping strategies against real-world dashboards and public databases.\n\nIntended audience: beginner and intermediate"
   },
   {
     "index": "Sagara 2023-06-16T23:17:32.000Z",
+    "id": "sustainable-infrastructure-data-journalism",
     "title": "Let’s build a sustainable infrastructure for data journalism at all scales",
     "facilitators": "Eric Sagara",
     "description": "Last spring a group of journalists met in the two-day Story Discovery At Scale conference to discuss the future of data journalism. The convening resulted in a series of recommendations meant to nurture and empower the use of data by journalists, regardless of skill level, in newsrooms of all sizes. An app store for tools, a data journalism wiki and other ways to share knowledge were among the recommendations.\n\nWe plan to pick up where the Story Discovery conference left off in this session. We’ll spend some time discussing the recommendations in detail, but this will also be a call to action. A large portion of the discussion will focus on how we as a community can turn these recommendations into reality. We’ve identified the next steps, let’s start taking them."
   },
   {
     "index": "Francis Chan 2023-06-15T20:51:08.000Z",
+    "id": "listening-learning",
     "title": "Listening to learn & learning to listen",
     "facilitators": "Tara Francis Chan, Molly Greene",
     "description": "What do you do when a meeting goes poorly? Or you need to debrief a messy project but you're worried how your team will react? This session will walk through practical ways to prevent destructive conflict, such as harnessing user guides and establishing agreed standards on communication. Using an example of a newsroom's listening workshop, it will also help you practice leading tough team-wide conversations by setting collective ground rules, running listening sessions, and taking an active role in helping your teams learn how to communicate better with one another."
   },
   {
     "index": "Zirulnick 2023-06-15T17:22:37.000Z",
+    "id": "user-needs",
     "title": "Making user needs a reality for your newsroom",
     "facilitators": "Ariel Zirulnick, Tran Ha",
-    "description": "User needs are getting a lot of attention, but there’s very little conversation on what user needs are good for beyond traffic and what it takes to truly center them in organizational decision making. \n\nBy the time of SRCCON, LAist will be almost two years into an organization-wide effort to put Angelenos’ user needs at the center of their decision-making (https://medium.com/engagement-at-laist/entry-points-on-ramps-and-waypoints-how-kpcc-laist-is-trying-to-help-angelenos-engage-with-their-8e1c95d2298a). \n\nWe’ve learned that implementing a user needs model (or any audience-centered editorial transformation in a news organization) requires two things:\n\n- Identifying the right research question, one that dials up to organizational purpose, mission, and scope and solves existing challenges for your audience and your staff \n- A thoughtfully paced and planned effort to build buy-in, create a shared language, and identify what processes need to change, as well as clarity on what the research insights can help you achieve—and which ones they can’t. \n\nDesign consultant Tran Ha, who guided LAist through its user needs research, will take participants through the process of identifying the right research questions for your organizational and audience needs. Ariel Zirulnick, who led LAist’s user needs implementation, will guide a discussion on some of the most common challenges to editorial transformation—including some they had to work through at LAist—and tactics, language, and arguments you can employ to get through them."
+    "description": "User needs are getting a lot of attention, but there’s very little conversation on what user needs are good for beyond traffic and what it takes to truly center them in organizational decision making. \n\nBy the time of SRCCON, LAist will be almost two years into [an organization-wide effort to put Angelenos’ user needs](https://medium.com/engagement-at-laist/entry-points-on-ramps-and-waypoints-how-kpcc-laist-is-trying-to-help-angelenos-engage-with-their-8e1c95d2298a) at the center of their decision-making.\n\nWe’ve learned that implementing a user needs model (or any audience-centered editorial transformation in a news organization) requires two things:\n\n- Identifying the right research question, one that dials up to organizational purpose, mission, and scope and solves existing challenges for your audience and your staff \n- A thoughtfully paced and planned effort to build buy-in, create a shared language, and identify what processes need to change, as well as clarity on what the research insights can help you achieve—and which ones they can’t. \n\nDesign consultant Tran Ha, who guided LAist through its user needs research, will take participants through the process of identifying the right research questions for your organizational and audience needs. Ariel Zirulnick, who led LAist’s user needs implementation, will guide a discussion on some of the most common challenges to editorial transformation—including some they had to work through at LAist—and tactics, language, and arguments you can employ to get through them."
   },
   {
     "index": "Ulken 2023-06-16T19:02:19.000Z",
+    "id": "boss-ai-what-do-i-do",
     "title": "My boss thinks AI is cool. What do I do now?",
     "facilitators": "Eric Ulken, Sachita Nishal",
     "description": "The generative AI arms race is upon us: CNet, Sports Illustrated, and Buzzfeed, among others, have talked about their use of Large Language Models such as GPT-3 to create or augment content. In the coming months and years, these tools are likely to become ubiquitous parts of workflow in the news and information industry. Some publishers will use them well; others will no doubt use them to mass produce low-quality clickbait.\n\nAs we all brace ourselves for a deluge of content and look for ways to stand out, how can the news product community promote the responsible use of these tools to solve problems for audiences and journalists while preserving quality and trust?"
   },
   {
     "index": "Heydari 2023-06-17T16:30:21.000Z",
+    "id": "purple-monkey-dishwasher",
     "title": "Purple Monkey Dishwasher: Translating between technical and editorial workers in journalism",
     "facilitators": "Anis Heydari, Elaine Wong",
     "description": "Journalists whose background is primarily editorial can struggle to communicate their needs effectively to their more technical colleagues. And the reverse is true just as often. \n\nMany newsrooms traditionally split production and operations apart from editorial, but as budget cuts and job changes continue, we're working together more than ever. And sometimes we have to be one-person bands.\n\nBut different communication styles, different lingos, and different needs around deadlines and personal work and learning styles can make it seem like communicating between technical and editorial are a giant game of telephone. So let's open up the lines and talk about how to fix these communication breakdowns and understand each others' roles better. We'll do some exercises showing examples of those communication breakdowns and learn best practices to get past the logjams. (... and also gripe to each other a little bit about our most irritating experiences)"
   },
   {
     "index": "Hansen 2023-06-17T15:45:36.000Z",
+    "id": "queer-tech",
     "title": "Queer Tech",
     "facilitators": "Mark Hansen",
-    "description": "How have LGBTQ+ communities shaped new technology development and how are they impacted by it? Much has been written about specific technologies and queer influence, queer responses, queer alternatives or queer resistance. We would use the workshop time to consider different kinds of technologies and design processes, and specifically those used in data or computational journalism—a journalism that deals in lived experiences, attempting to extend or uncover insights through data collection and analysis.\n\nWith data collection we find a tension between representation (the creation of SOGI questions, say) and “visibility” in federal surveys (without counting the government cannot respond to a community’s needs) and privacy (or more generally, a “refusal to cohere, to become legible, to see like a state” to quote Blas from 2012).\n\nData are just the start in some sense and we would also look at processes of technology development for/by queer communities, or development processes that “design from the margins” and center the previously decentered ([to paraphrase Rigot](https://www.belfercenter.org/publication/design-margins), and her work making LGBTQ+ dating apps “safe” in countries like Egypt.)\n\nWe could discuss examples in which these communities impacted technology development (for example, [Rundle says about Mastodon](https://www.hughrundle.net/home-invasion/), “The tools, protocols and culture of the fediverse were built by trans and queer feminists… If the people who built the fediverse generally sought to protect users, corporate platforms like Twitter seek to control their users.”) There are also pedagogical approaches to teaching technology that have been “queered” (The Tech Learning Collective and its casting of “magic” into the UNIX command line).\n\nThere is much to talk about and certainly the area is deep. For data journalists, it is good to be questioning our tools and processes and how they were designed and what gaps they leave. It is also good to consider our own development processes and how they could be changed to better serve our communities."
+    "description": "How have LGBTQ+ communities shaped new technology development and how are they impacted by it? Much has been written about specific technologies and queer influence, queer responses, queer alternatives or queer resistance. We would use the workshop time to consider different kinds of technologies and design processes, and specifically those used in data or computational journalism—a journalism that deals in lived experiences, attempting to extend or uncover insights through data collection and analysis.\n\nWith data collection we find a tension between representation (the creation of SOGI questions, say) and “visibility” in federal surveys (without counting the government cannot respond to a community’s needs) and privacy (or more generally, a “refusal to cohere, to become legible, to see like a state” to quote Blas from 2012).\n\nData are just the start in some sense and we would also look at processes of technology development for/by queer communities, or development processes that “design from the margins” and center the previously decentered ([to paraphrase Rigot](https://www.belfercenter.org/publication/design-margins) and her work making LGBTQ+ dating apps “safe” in countries like Egypt.)\n\nWe could discuss examples in which these communities impacted technology development (for example, [Rundle says about Mastodon](https://www.hughrundle.net/home-invasion/), “The tools, protocols and culture of the fediverse were built by trans and queer feminists… If the people who built the fediverse generally sought to protect users, corporate platforms like Twitter seek to control their users.”) There are also pedagogical approaches to teaching technology that have been “queered” (The Tech Learning Collective and its casting of “magic” into the UNIX command line).\n\nThere is much to talk about and certainly the area is deep. For data journalists, it is good to be questioning our tools and processes and how they were designed and what gaps they leave. It is also good to consider our own development processes and how they could be changed to better serve our communities."
   },
   {
     "index": "O'Donoghue 2023-06-15T18:17:42.000Z",
+    "id": "reader-research-on-budget",
     "title": "Reader research on a budget: A product & audience guide to kicking off continuous discovery in a small newsroom",
     "facilitators": "Jane O'Donoghue, Jane Seidel",
     "description": "Understanding readers, engaging with readers, learning from readers—it can be hard to do vital audience research when you’re under-resourced. But reader research is crucial as it benefits the whole newsroom, from the product and audience teams to the editors and reporters, too. \nIn this workshop, we’ll walk through methodologies that we’ve adopted in our small nonprofit newsroom, then work with participants to establish their own techniques and get set up to start practical and continuous reader research. This session is suited for people in small, resource-strapped newsrooms where you need to solve problems, gather intel to help solve those problems, and plan actions based on your learnings—without spending money or having a big team to rely on. \n\nOur small, global newsroom has adopted three different types of continuous research that we use cross-functionally to test assumptions, build new products, and report the kind of stories that genuinely matter to our audience. The workshop will help participants to work through the particular challenges they have within their organizations, help them develop clearer areas of focus for their research, and assist them in choosing the right form(s) of research. We’ll help participants create a plan to target their research audience, and establish a list of questions they might want to ask. Participants will walk away with practical next steps, ready to start user research and apply their learnings to development in the newsroom.\n\nThis will be an interactive and lively group discussion, where we’ll roll up our sleeves and work as a group to help each other frame our research objectives, and figure out the best path forward to best serve readers’ needs with our journalism."
   },
   {
     "index": "O Gorman 2023-06-16T19:50:03.000Z",
+    "id": "securing-work-hybrid",
     "title": "Securing your work in a hybrid office environment",
     "facilitators": "Kevin O'Gorman, David Huerta",
     "description": "Hybrid and fully remote work models aren't going away, so how does that change the security story for journalists? How do you protect yourself while doing online research from home? What different steps do you need to take to keep your laptop or phone safe from prying eyes? Is your thermostat listening in on that Signal call with your latest source?\n\nIn this session we’ll delve into the security concerns raised by working from home, and work together on some basic threat-modeling exercises to help you figure out which are most important to you, and what changes you can make to improve your security and safety."
   },
   {
     "index": "Lager 2023-06-15T19:27:34.000Z",
+    "id": "service-journalism-empowers",
     "title": "Service journalism that empowers: Inciting community action through news and interaction",
     "facilitators": "William Lager, Anita Li",
     "description": "During this collaborative session we will explore how to incite community engagement and ultimately instigate community action through community-centric journalism. We will create a working document and checklist to transform essential service journalism into an engine of social, political and community change through community collaboration and empowerment. Not only understanding how things impact a community but how those systems can be impacted by community actions with an eye towards upcoming election cycles to break the horse race mentality. We will use a playbook developed by RJI & The Green Line as a starting point as session participants bring their experience and perspectives to create this resource."
   },
   {
     "index": "Williamson 2023-06-16T21:18:19.000Z",
+    "id": "talking-hybrid-irl",
     "title": "Talking hybrid IRL: Reinventing the way we work with intention and inclusivity",
     "facilitators": "Janeen Williamson, Hannah Wise",
     "description": "The pandemic thrust us into a world of virtual work with zero preparation and we did our best at the time. As time has worn on and we move to more hybrid models of work, it’s important to consider how the standard processes and tools we’ve always relied on have worked (and not worked) for us. This interactive session will deconstruct these models and identify ways we can improve how we work together that is both productive and inclusive for all.\n\nQuestions this session might answer:\n\n* For people that are in the office, what processes and tools can you put in place to ensure you include remote colleagues?\n* For remote employees, what can you do to proactively to connect with people working in the office?\n* As an organization, how might we look at inclusion across the employee experience in a hybrid workplace?"
   },
   {
     "index": "Freedman 2023-06-16T15:24:00.000Z",
+    "id": "uses-boundaries-ai",
     "title": "The fine line on AI: Exploring uses and boundaries",
     "facilitators": "Dylan Freedman",
     "description": "In the past year, artificial intelligence has blown up, with promising new use cases but also ethical quandaries. How should we be responsibly thinking about this technology? There are many dimensions to explore: generative content creation, IP and copyright issues, guardrails against hallucinations and falsehoods, harmful biases, confident gaslighting, navigating hype cycles, reckoning with intent and originality, profligate energy consumption, big players monopolizing the market, data rights, model transparency, and more.\n\nIn this session, we will collectively brainstorm and explore how to navigate this space in journalism and life in a principled way, drawing on some example scenarios and collaborating on a set of best practices."
   },
   {
     "index": "Truong 2023-06-13T16:04:33.000Z",
+    "id": "better-career-pathways",
     "title": "The long and winding road: How might we build better career pathways for the next generation of news leaders?",
     "facilitators": "Elite Truong, Emma Carew Grovum",
     "description": "How do we influence the culture of our news organizations and create career opportunities for ourselves and others who have product, technical and data skills?\n\nA diverse, multidisciplinary cohort of leaders is rising. Some of us have already landed in manager and leadership roles. But future folks from this cohort shouldn’t have to navigate as much confusion as we did. \n\nJoin Emma Carew Grovum, director of careers and culture at The Marshall Project, and Elite Truong, vice president of product strategy at American Press Institute, to discuss how looking at the big picture to connect the day-to-day work to a larger newsroom culture and longer-term career opportunities for multidisciplinary journalists, and their experiences building career ladders for their teams and new cultural standards in both legacy and startup newsrooms."
   },
   {
     "index": "Athas 2023-06-16T22:55:35.000Z",
+    "id": "avoid-innovation-burnout",
     "title": "Too much change, too fast: How can we avoid innovation burnout in newsrooms?",
     "facilitators": "Eric Athas",
     "description": "From the mobile revolution to the pandemic, the past two decades have handed us change after change after change. And more is coming. The rise of artificial intelligence signals the beginning of a novel kind of disruption.\n\nMuch of this change is good for the journalism profession. At the same time, too much change, too fast, is counter-productive. We become spread thin and don't have the time or energy needed to learn new things. Even worse, we risk burnout.\n\nHow can we continue to adapt journalism to meet the moment while ensuring the humans doing the work can keep up?\n\nIn this session, we'll break into small groups to discuss the challenges that come with constant newsroom change and strategies for balancing innovation with the workload of journalists. Then we'll regroup, share notes and build a guide you can bring back to your newsroom."
   },
   {
     "index": "Birch 2023-06-16T20:15:36.000Z",
+    "id": "thinking-in-objects",
     "title": "Untangle complex systems by thinking in objects",
     "facilitators": "Hannah Birch",
     "description": "Mental models are foundational to how people understand the world. When complex systems aren't clear, often it's because individual parts of the system aren't well-defined, or their relation to each other is unclear or inconsistent. Object-oriented UX ([big hat-tip to Sophia Prater](https://www.ooux.com/people/sophiavprater)) addresses this with an analytical approach to breaking down complexity. \n\nDuring this session, we'll look at how thinking in objects can help you assemble tools and stories that make sense to other people (and you!). While the OOUX discipline is grounded in object-oriented UI design, the principles can also help you map out things beyond digital products—think complex org structures, sprawling social systems, and physical environments. The framework will help you visualize key relationships so you can better understand and explain how they work.\n\nYou can bring your own project to the session or work with examples we'll have. You don't have to have UX design experience to get something out of this session! The primary goal is giving you another way to tackle complexity."
   },
   {
     "index": "Komarla 2023-06-17T03:58:24.000Z",
+    "id": "foi-laws-covid",
     "title": "Using freedom of information laws to improve transparency on COVID-19 in California jails",
     "facilitators": "Aparna Komarla",
-    "description": "Without high-quality COVID-19 data, it is impossible to improve public health decision-making and outcomes. These limitations disproportionately affect vulnerable and marginalized groups such as incarcerated populations. In California, the most populous state in the United States, local jails that incarcerate over 80,000 people pending trial or sentencing on any given day have notoriously fallen through the cracks regarding COVID-19 data transparency. No state authority has established a technologically advanced and centralized effort to capture this critical data. \n\nThe [Covid In-Custody Project](https://www.covidincustody.org) is a data journalism initiative that leverages freedom of information laws and technology such as image recognition, web scraping and analytics to aggregate data on infection and vaccination rates in hundreds of public records retrieved from law enforcement agencies. We uncovered over 60,000 positive cases and several deaths that were previously kept under wraps. Our data is integrated in the United States’ Centers for Disease Control’s (CDC) COVID-19 tracker for correctional facilities via a partnership with the University of California Los Angeles School of Law. The reluctance from law enforcement agencies to disclose public records and their backwardness in data documentation is a curious case of unbridled authority these institutions exercise. \n\nThrough our data collection and journalism, we show that the COVID-19 pandemic in California jails is a perfect example of the value and opportunity to bring technology, law and policy together in the public sector at a national, state and local level, and the consequences of not doing so."
+    "description": "Without high-quality COVID-19 data, it is impossible to improve public health decision-making and outcomes. These limitations disproportionately affect vulnerable and marginalized groups such as incarcerated populations. In California, the most populous state in the United States, local jails that incarcerate over 80,000 people pending trial or sentencing on any given day have notoriously fallen through the cracks regarding COVID-19 data transparency. No state authority has established a technologically advanced and centralized effort to capture this critical data. \n\nThe [Covid In-Custody Project](https://covidincustody.org/) is a data journalism initiative that leverages freedom of information laws and technology such as image recognition, web scraping and analytics to aggregate data on infection and vaccination rates in hundreds of public records retrieved from law enforcement agencies. We uncovered over 60,000 positive cases and several deaths that were previously kept under wraps. Our data is integrated in the United States’ Centers for Disease Control’s (CDC) COVID-19 tracker for correctional facilities via a partnership with the University of California Los Angeles School of Law. The reluctance from law enforcement agencies to disclose public records and their backwardness in data documentation is a curious case of unbridled authority these institutions exercise. \n\nThrough our data collection and journalism, we show that the COVID-19 pandemic in California jails is a perfect example of the value and opportunity to bring technology, law and policy together in the public sector at a national, state and local level, and the consequences of not doing so."
   },
   {
     "index": "Dooling 2023-06-08T16:46:18.000Z",
+    "id": "positive-psychology-role",
     "title": "Using positive psychology to grow into your next role.",
     "facilitators": "Annemarie Dooling",
     "description": "The science of positive psychology uses our attributes and characteristics to build on our positive values, not detract from what we want taken away. In particular, [job crafting](https://hbr.org/2020/03/what-job-crafting-looks-like) is an exercise everyone in change-making, new and experimental roles should undertake at least once in their career. \nI'd like to lead a group in building out their leader lines (or, the moments in their life when they lead in non-work related ways to identify times of strength and compassion), and a job crafting process engineering diagram to take the elements of your current job and understand how to delegate and build on what you're good at."
   },
   {
     "index": "Germuska 2023-06-16T20:37:21.000Z",
+    "id": "what-to-do-about-twitter",
     "title": "What the @#%J do journalists do about Twitter (and other social media)?",
     "facilitators": "Joe Germuska",
     "description": "Twitter used to be an important place for journalists. However, since Elon Musk bought the place in late 2022, things have changed. Cuts to the trust & safety team have left many users feeling unsafe on the platform. Journalists have been banned for work Musk personally doesn't like, and press inquiries are automatically replied to with a poop emoji. Some observers have even hypothesized that Elon Musk may be trying to create a next-generation Fox News.\n\nHow should journalists, both individually and as organizations, proceed? Does our participation in Twitter implicate us in Musk's political maneuvering? Is simply leaving the service an act of privilege, disregarding the circumstances of people who, whatever Twitter' issues, have no better place to be in community? Which of the emerging alternatives have promise?\n\nIn this session, we'll discuss these challenges, but mostly in service of developing a constructive near-future vision: What do we as journalists and as human beings want and need from social media? And what can we do to make it better for all of us?"
   },
   {
     "index": "Martin 2023-05-31T20:19:50.000Z",
+    "id": "crafting-support-system",
     "title": "With great responsibility comes ... minimal support: How to craft your own support system as an editor, middle manager or team leader—or someone interested in becoming one",
     "facilitators": "Meg Martin",
     "description": "Let’s face it: We’re not an industry that’s particularly revered for the way we prepare people to take on more responsibility within our organizations. Pathways to new opportunities—whether next-step management roles or peer-leadership opportunities—are often dim, if they exist at all. We’re not great at preparing people to be editors. And we often promote people into leadership roles because they were good at something entirely else. (You’re a superstar developer? Come run the team! A top-notch reporter? Why not become an editor?) The systems within news organizations aren’t often set up to support their middle managers and others who step up into leadership roles, whether on short-term projects or in long-term jobs.\n\nBut those are often exactly the people in the room with the most impact on their colleagues, and on people’s experience of the organization and of their work. They have the most direct impact on people’s day-to-day work lives—an incredible responsibility!—and play a crucial role in the culture, wellbeing and happiness of their organization.\n\nSo: What to do, if your work involves leading teams, leading a project, coordinating colleagues? Particularly if you feel as though you’re working in a vacuum, or could use a little support that seems a bit out of reach? It can help to have a map, and if your newsroom isn’t equipped to help you build it, let’s start that work together in this workshop.\n\nWe’d like for you to walk away with a blueprint to help you start thinking through ways to fill in the gaps in training, support and focus that will help you better serve your team, your project and your community. Together, we’ll:\n* Focus in on the contribution we want to be for our teams, our newsrooms and our community; craft the story of our work\n* Identify our personal training and support needs\n* Plot out a plan to build our peer network and informal advisory board\n* Design the beginnings of a training and learning plan\n* Find ways to regularly incorporate protected time in our schedule for reflection, development, mentoring and peer support"
