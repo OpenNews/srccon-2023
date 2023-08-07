@@ -10,6 +10,8 @@ The following sessions have been confirmed so far for {{ page.event_name }}. Tha
 
 We'll publish the complete schedule with session dates and times soon.
 
+**If you're figuring out travel plans:** We’ll get started around 9am on Tuesday, Oct. 17, and close by 6pm Wednesday, Oct. 18. Most participants arrive Monday afternoon and head home Thursday morning.
+
 ## Sessions 
 
 Thank you to the [community panel](#community-review) that helped us during our review process! Our conference schedule this year will include the sessions below.
