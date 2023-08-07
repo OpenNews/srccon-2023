@@ -25,6 +25,8 @@ Curious about how it all works? Learn more about [being a participant at SRCCON]
 
 On October 17-18 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
+Our program will begin around 9am on Tuesday and close by 6pm Wednesday. If you’re figuring out travel plans, most participants arrive Monday afternoon and leave Thursday morning.
+
 We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $139 per night. We will have a link to reserve a room to share soon. The Graduate Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather.
 
 We're excited to be back in Minneapolis! SRCCON 2023 will be in-person only. There will not be a hybrid or virtual version of this event. We will continue to offer virtual programming throughout the year, such as our [bi-weekly community calls](https://opennews.org/what/community/calls), and expect that several sessions will be documented publicly on our site Source.
