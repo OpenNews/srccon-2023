@@ -68,4 +68,4 @@ People come first at SRCCON. Each event is set up to allow participants to focus
 
 “My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I’ve been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”
 
-Interested in having your company or organization become a sponsor of SRCCON? [Get in touch with OpenNews Co-Executive Director Erika Owens today.](mailto:erika@opennews.org)
+Interested in having your company or organization become a sponsor of SRCCON? [Get in touch with OpenNews Co-Director Ryan Pitts today.](mailto:ryan@opennews.org)
