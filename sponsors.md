@@ -35,7 +35,7 @@ Note: One of these sponsorships is already sold out. Thanks to longtime SRCCON s
 
 Help us with all the finishing touches on the event. Show your support by helping us put on what our participants frequently say is “the best conference I’ve ever been to.”
 
-Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Erika Owens](mailto:erika@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
+Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Ryan Pitts](mailto:ryan@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
 
 ## What is SRCCON?
 
