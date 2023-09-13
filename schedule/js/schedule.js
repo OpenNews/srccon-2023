@@ -457,7 +457,7 @@ function Schedule(CONFIG) {
             schedule.$container.removeClass().html(schedule.sessionListTemplate);
             schedule.$container.find('.schedule-tab').hide();
             $('#'+schedule.chosenTab).show();
-            schedule.addCaptionOverline('<p class="overline"><i class="fa fa-cc"></i> indicates sessions with a live stenographer (other sessions will have automatic captioning)</p>');
+            schedule.addCaptionOverline('<p class="overline"><i class="fa fa-cc"></i> indicates sessions with a live stenographer</p>');
             // TODO (for the data processor): make sure "day" in sessions.json are all lowercase
             var capitalizedDayValue = schedule.chosenTab.charAt(0).toUpperCase() + schedule.chosenTab.slice(1);
             schedule.getFilteredSessions("day", capitalizedDayValue);
@@ -540,7 +540,7 @@ function Schedule(CONFIG) {
     
     // adds search filter and expanded data toggle to top of "All" sessions list
     schedule.addListControls = function() {
-        schedule.addCaptionOverline('<p class="overline"><i class="fa fa-cc"></i> indicates sessions with a live stenographer (other sessions will have automatic captioning)</p>');
+        schedule.addCaptionOverline('<p class="overline"><i class="fa fa-cc"></i> indicates sessions with a live stenographer</p>');
         
         var filterForm = '<div id="filter-form">\
                 <label for="list-filter">Search names, facilitators and descriptions</label>\
