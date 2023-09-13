@@ -5,31 +5,36 @@ permalink: /
 
 ### Be a part of SRCCON 2023
 
-# Our call for participation is open!
+# [Our schedule for SRCCON 2023 is here!](/schedule)
 
-**Attend SRCCON:** [Our call for participation form is open](/participation/form) with questions to tell us how you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
+Check out the amazing sessions this community has planned for each day. And stay tuned, because we still have an evening program with social sessions and activities coming soon!
 
-**Our program:** We just published [our initial list of accepted sessions](/program/), so take a look at what we have planned for this year!
+↪ [See the SRCCON schedule](/schedule) 🎉
 
-There's still plenty of room to get involved: We'll keep our [call for participation form](/participation/form) open for attendees as long as we have space.
+**How to get involved:** [Our call for participation form](/participation/form) is where to let us know you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
 
-## Key dates for your calendar
+There's still plenty of room for you! We'll keep our [participation form](/participation/form) open for attendees as long as we have space.
 
-* **By June 28**: Anyone who proposed a session or applied for a scholarship by June 16 has been notified
-* **On a rolling basis**: We'll continue to review participation forms for attendees only
+**Key dates for your calendar**
+
+* **On a rolling basis**: We'll continue to review participation forms for attendees
 * **October 17-18**: SRCCON takes place in Minneapolis, MN
 
-Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees) and [our call for participation form](/participation/form). There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2023, our call for participation is how to let us know!
+Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees).
+
+### About our program
+
+You can browse [this year's list of sessions](/program) or check out [the official conference schedule](/schedule), with more social activities coming soon.
 
 ### When & where
 
 On October 17-18 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
-**If you're figuring out travel plans:** We’ll get started around 9am on Tuesday and close by 6pm Wednesday. Most participants arrive Monday afternoon and head home Thursday morning.
+**If you’re figuring out travel plans:** We’ll get started around 9am on Tuesday and close by 6pm Wednesday. Most participants arrive Monday afternoon and head home Thursday morning.
 
 We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $139 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON/OpenNews rate, or use our [dedicated booking link](https://www.graduatehotels.com/minneapolis/#/booking/step-1?group=1700311&arrive=10%2F15%2F2023&depart=10%2F20%2F2023).
 
-The Graduate Hotel is located directly next to the SRCCON venue and is connected by a tunnel in case of bad weather. The reserved block of rooms will be available until September 24 or all rooms are booked, whichever happens first—booking early is always a good idea!
+The Graduate Hotel is located right next to the SRCCON venue and is connected by a tunnel in case of bad weather. The conference rate will be available until September 24 or all rooms are booked, whichever happens first—our hotel block is nearly full, so you may want to book soon!
 
 We're excited to be back in Minneapolis! SRCCON 2023 will be in-person only. There will not be a hybrid or virtual version of this event. We will continue to offer virtual programming throughout the year, such as our [bi-weekly community calls](https://opennews.org/what/community/calls), and expect that several sessions will be documented publicly on our site Source.
 
