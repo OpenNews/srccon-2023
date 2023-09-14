@@ -1,8 +1,8 @@
 [
   {
     "id": "tuesday-registration",
-    "title": "Registration",
-    "description": "Get your badges and gear up for the first day of SRCCON! (We'll put out some awesome morning snacks a little later into our conference day.)",
+    "title": "Registration + Coffee & Tea at SRCCON",
+    "description": "Get your badges and grab some caffeine as you gear up for the first day of SRCCON! (We'll put out some awesome morning snacks a little later into our conference day.)",
     "facilitators": "",
     "time": "8am",
     "day": "Tuesday",
@@ -421,8 +421,8 @@
   },
   {
     "id": "wednesday-open",
-    "title": "SRCCON opens",
-    "description": "Ease into the second morning at SRCCON with conversations before the sessions get started.",
+    "title": "Coffee & Tea at SRCCON",
+    "description": "Ease into the second morning at SRCCON with coffee, tea, and conversations before the sessions get started.",
     "facilitators": "",
     "time": "8am",
     "day": "Wednesday",
