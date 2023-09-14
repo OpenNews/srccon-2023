@@ -590,8 +590,8 @@ header .sourcecon .trailer > span:after{
 
 .sponsor-list a {
     display: inline-block;
-    margin: 0 5% 1em 0;
-    width: 40%;
+    margin: 0 4% 1em 0;
+    width: 45%;
 }
 .sponsor-list a.narrow-logo {
     width: 23%;
