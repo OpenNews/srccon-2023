@@ -103,11 +103,11 @@ Because SRCCON is a collaborative, peer-to-peer event, we do ask that all partic
 
 #### Writeups from previous SRCCONs
 
-* [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica’s Sisi Wei
-* [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
-* [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
-* [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
-* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
+* [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by Sisi Wei
+* [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by Alyson Hurt
+* [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Nicole Zhu
+* [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski and Andrea Suozzo
+* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones
 
 #### Facilitation tips & ideas
 
