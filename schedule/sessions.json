@@ -1,8 +1,8 @@
 [
   {
     "id": "tuesday-registration",
-    "title": "Registration",
-    "description": "Get your badges and gear up for the first day of SRCCON! (We'll put out some awesome morning snacks a little later into our conference day.)",
+    "title": "Registration + Coffee & Tea at SRCCON",
+    "description": "Get your badges and grab some caffeine as you gear up for the first day of SRCCON! (We'll put out some awesome morning snacks a little later into our conference day.)",
     "facilitators": "",
     "time": "8am",
     "day": "Tuesday",
@@ -421,8 +421,8 @@
   },
   {
     "id": "wednesday-open",
-    "title": "SRCCON opens",
-    "description": "Ease into the second morning at SRCCON with conversations before the sessions get started.",
+    "title": "Coffee & Tea at SRCCON",
+    "description": "Ease into the second morning at SRCCON with coffee, tea, and conversations before the sessions get started.",
     "facilitators": "",
     "time": "8am",
     "day": "Wednesday",
@@ -555,21 +555,6 @@
     "notepad": ""
   },
   {
-    "id": "local-news-emergencies",
-    "title": "A local news go bag: Reporting with care when emergencies hit home",
-    "description": "Have you experienced being in the middle of an emergency and disaster, or reported on one? It has been said that all reporters will become climate reporters, and this session seeks to explore that possibility and what it means in practice. Life-threatening emergencies are when communities most need reliable information, and also when the most marginalized are at the center of the impact. Whether it's a wildfire or a winter storm, the biggest challenges are often about getting reliable info to those who need it most, and these challenges are best faced by activating existing community connections.\n\nThis session seeks to examine what frameworks, resources, and tools we can share in order to prepare for the unexpected, bringing together the lived experiences of participants with case studies and examples of local reporting before, during, and after such events. This session will explore how the act of sharing information and journalism can be a form of mutual aid, building trust and creating change, especially as climate change is bringing a new scale of disasters into our everyday lives. Participants will leave with a shared resource they can use during their own work.",
-    "facilitators": "Kate Maxwell",
-    "time": "11:15-12:30pm",
-    "day": "Wednesday",
-    "timeblock": "wednesday-am-2",
-    "room": "Johnson",
-    "everyone": "",
-    "social": "",
-    "break": "",
-    "transcription": "y",
-    "notepad": ""
-  },
-  {
     "id": "user-needs",
     "title": "Making user needs a reality for your newsroom",
     "description": "User needs are getting a lot of attention, but there’s very little conversation on how to develop your own set of user needs, what they are good for beyond traffic, and what it takes to truly center them in organizational decision-making.\n\nBy the time of SRCCON, LAist will be almost two years into [an organization-wide effort to put Angelenos’ user needs](https://medium.com/engagement-at-laist/entry-points-on-ramps-and-waypoints-how-kpcc-laist-is-trying-to-help-angelenos-engage-with-their-8e1c95d2298a) at the center of their decision-making.\n\nWe’ve learned that implementing a user needs model (or any audience-centered editorial transformation in a news organization) requires two things:\n\n- Identifying the right research question, one that dials up to organizational purpose, mission, and scope and solves existing challenges for your audience and your staff \n- A thoughtfully paced and planned effort to build buy-in, create a shared language, and identify what processes need to change, as well as clarity on what the research insights can help you achieve—and which ones they can’t. \n\nDesign consultant Tran Ha, who guided LAist through its user needs research, will take participants through the process of identifying the right research questions for your organizational and audience needs. Ariel Zirulnick, who led LAist’s user needs implementation, will guide a discussion on some of the most common challenges to editorial transformation—including some they had to work through at LAist—and tactics, language, and arguments you can employ to get through them.",
@@ -630,10 +615,10 @@
     "notepad": ""
   },
   {
-    "id": "innovative-meeting-design",
-    "title": "Enhancing collaboration and managing conflict with innovative meeting design",
-    "description": "In every news org—as in all systems and groups—there are things that are working, yet we tend to devote our energy to fixing (or ignoring) problems. Appreciative Inquiry (the other AI) is a collaborative, strengths-based approach to generate meaningful dialogue and discussion to support change in groups, teams and organizations by discovering strengths using questions that matter.  \n\nIn this session we will collectively design a better way to collaborate in our newsrooms. We will review the wisdom of the practice of Appreciative Inquiry, facilitate discussion around issues of collaboration and conflict facing newsrooms and workgroups, demonstrate how Appreciative Inquiry can be leveraged, and give participants the opportunity to build skills.\n\nIn this workshop participants will:\n\n* Learn an overview of the Appreciative Inquiry model\n* Discover concepts to improve the design of meetings\n* Explore reframing questions that make a difference\n* Practice design and dialogue that builds on strengths\n\nUltimately, participants will leave with improved communication skills and a framework for conflict resolution to share with their newsrooms to make working together, better.",
-    "facilitators": "Carol Zuegner, Mary Lee Brock",
+    "id": "local-news-emergencies",
+    "title": "A local news go bag: Reporting with care when emergencies hit home",
+    "description": "Have you experienced being in the middle of an emergency and disaster, or reported on one? It has been said that all reporters will become climate reporters, and this session seeks to explore that possibility and what it means in practice. Life-threatening emergencies are when communities most need reliable information, and also when the most marginalized are at the center of the impact. Whether it's a wildfire or a winter storm, the biggest challenges are often about getting reliable info to those who need it most, and these challenges are best faced by activating existing community connections.\n\nThis session seeks to examine what frameworks, resources, and tools we can share in order to prepare for the unexpected, bringing together the lived experiences of participants with case studies and examples of local reporting before, during, and after such events. This session will explore how the act of sharing information and journalism can be a form of mutual aid, building trust and creating change, especially as climate change is bringing a new scale of disasters into our everyday lives. Participants will leave with a shared resource they can use during their own work.",
+    "facilitators": "Kate Maxwell",
     "time": "2-3:15pm",
     "day": "Wednesday",
     "timeblock": "wednesday-pm-1",
