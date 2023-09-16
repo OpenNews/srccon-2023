@@ -18,7 +18,7 @@ Interested in having your company or organization get involved? [Find out more a
 </div>
 
 
-<div class="page-divider"><span>Meal sponsors</span></div>
+<div class="page-divider"><span>Lunch sponsors</span></div>
 <div class="sponsor-block secondary">
     <a href="https://rjionline.org/"><img src="/media/img/partners/rji.png" alt="Reynolds Journalism Institute"></a>
 </div>
@@ -28,7 +28,7 @@ Interested in having your company or organization get involved? [Find out more a
 </div>
 
 
-<div class="page-divider"><span>Break & snack sponsors</span></div>
+<div class="page-divider"><span>Dinner sponsor</span></div>
 <div class="sponsor-block secondary">
     <a href="https://alley.co/"><img src="/media/img/partners/alley.png" alt="Alley Interactive"></a>
 </div>
