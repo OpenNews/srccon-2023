@@ -9,7 +9,7 @@ title: Our sponsors
 Interested in having your company or organization get involved? [Find out more about becoming a sponsor of SRCCON](/sponsors/about/).
 
 
-<div class="page-divider"><span>Accessibility sponsor</span></div>
+<div class="page-divider"><span>Facilitator scholarship sponsor</span></div>
 <div class="sponsor-block">
     <a href="https://datadrivenreporting.medill.northwestern.edu/"><img src="/media/img/partners/ddrp_knightlab.png" alt="The Data-Driven Reporting Project"></a>
     <p><a href="https://datadrivenreporting.medill.northwestern.edu/">The Data-Driven Reporting Project</a> equips local news organizations and freelance journalists, especially those who serve local and underrepresented communities, with financial awards and additional resources to work on data- or document-driven investigative work. The next round of applications for the DDRP opens in January 2024, learn more about <a href="https://datadrivenreporting.medill.northwestern.edu/how-to-apply">how to apply here</a>. The DDRP is based out of <a href="https://knightlab.northwestern.edu/">Northwestern University Knight Lab</a> at <a href="http://medill.northwestern.edu/">Medill</a> and was founded with support from the <a href="https://newsinitiative.withgoogle.com/">Google News Initiative</a>.
