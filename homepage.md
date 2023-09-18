@@ -30,15 +30,12 @@ You can browse [this year's list of sessions](/program) or check out [the offici
 
 On October 17-18 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
 
-**If you’re figuring out travel plans:** We’ll get started around 9am on Tuesday and close by 6pm Wednesday. Most participants arrive Monday afternoon and head home Thursday morning.
+**If you’re figuring out travel plans:** We’ll get started at 9am on Tuesday and close by 6pm Wednesday. Most participants arrive Monday afternoon and head home Thursday morning. The conference rate is sold out at our conference hotel, [the Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/), but you can still book at the regular rate or check out these [other hotel options](/attendees#lodging).
 
-We have reserved a block of rooms at the [Graduate Minneapolis Hotel](https://www.graduatehotels.com/minneapolis/) at a base rate of $139 per night. To get the conference rate, please call 612-379-8888 and ask for the SRCCON/OpenNews rate, or use our [dedicated booking link](https://www.graduatehotels.com/minneapolis/#/booking/step-1?group=1700311&arrive=10%2F15%2F2023&depart=10%2F20%2F2023).
-
-The Graduate Hotel is located right next to the SRCCON venue and is connected by a tunnel in case of bad weather. The conference rate will be available until September 24 or all rooms are booked, whichever happens first—our hotel block is nearly full, so you may want to book soon!
-
-We're excited to be back in Minneapolis! SRCCON 2023 will be in-person only. There will not be a hybrid or virtual version of this event. We will continue to offer virtual programming throughout the year, such as our [bi-weekly community calls](https://opennews.org/what/community/calls), and expect that several sessions will be documented publicly on our site Source.
+We're excited to be back in Minneapolis! SRCCON 2023 will be in-person only. We'll continue to offer virtual programming throughout the year, such as our [bi-weekly community calls](https://opennews.org/what/community/calls), and expect that several sessions will be documented publicly on our site Source.
 
 <span id="covid-safety"></span>
+
 #### COVID safety guidelines
 
 At SRCCON, we prioritize caring for each other. One way we'll do that this year is by masking throughout the conference while indoors and not actively eating, drinking, or facilitating. We're excited to be back at our longtime SRCCON venue, but it's a spot without windows that open or outdoor session spaces. Given that our options for improved air flow are limited, we've decided to use a tool we've all gotten very familiar with: masks!
