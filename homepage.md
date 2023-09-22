@@ -28,7 +28,7 @@ You can browse [this year's list of sessions](/program) or check out [the offici
 
 We also love to share related events that people plan around SRCCON:
 
-* **[Perspectives: How Communities Handle Crises and Dream of Better Futures](https://www.eventbrite.com/e/perspectives-how-communities-handle-crises-and-dream-of-better-futures-tickets-720049737147?aff=oddtdtcreator)**: Monday, Oct. 16, 7:30pm. Perspectives is an ongoing project to help journalists find inspiration and strategies from other voices. This discussion will include Jeanelle Austin, Executive Director of the George Floyd Global Memorial, and Jessica Eckerstorfer, co-director of the Southeast Asian Diaspora Project.
+* **[Perspectives: How Communities Handle Crises and Dream of Better Futures](https://www.eventbrite.com/e/perspectives-how-communities-handle-crises-and-dream-of-better-futures-tickets-720049737147?aff=oddtdtcreator)**: _Monday, Oct. 16, 7:30pm._ Perspectives is an ongoing project to help journalists find inspiration and strategies from other voices. This discussion will include Jeanelle Austin, Executive Director of the George Floyd Global Memorial, and Jessica Eckerstorfer, co-director of the Southeast Asian Diaspora Project.
 
 If you're planning a meetup or related event while you're in Minneapolis for SRCCON, [let us know](mailto:team@opennews.org) so we can share it with everyone!
 
