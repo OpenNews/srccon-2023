@@ -26,6 +26,12 @@ Curious about how it all works? Learn more about [being a participant at SRCCON]
 
 You can browse [this year's list of sessions](/program) or check out [the official conference schedule](/schedule), with more social activities coming soon.
 
+We also love to share related events that people plan around SRCCON:
+
+* **[Perspectives: How Communities Handle Crises and Dream of Better Futures](https://www.eventbrite.com/e/perspectives-how-communities-handle-crises-and-dream-of-better-futures-tickets-720049737147?aff=oddtdtcreator)**: _Monday, Oct. 16, 7:30pm._ Perspectives is an ongoing project to help journalists find inspiration and strategies from other voices. This discussion will include Jeanelle Austin, Executive Director of the George Floyd Global Memorial, and Jessica Eckerstorfer, co-director of the Southeast Asian Diaspora Project.
+
+If you're planning a meetup or related event while you're in Minneapolis for SRCCON, [let us know](mailto:team@opennews.org) so we can share it with everyone!
+
 ### When & where
 
 On October 17-18 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
