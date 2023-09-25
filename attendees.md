@@ -18,7 +18,7 @@ The small conference size means that we have to be intentional about equitably d
 
 ## Lodging
 
-There are a very few rooms left at the conference rate at our conference hotel, [the Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/), located right next to our venue. You can reserve one through our [dedicated booking link](https://www.graduatehotels.com/minneapolis/#/booking/step-1?group=1700311&arrive=10%2F15%2F2023&depart=10%2F20%2F2023)—once they sell out, you can still book at the regular rate.
+There are a very few rooms left in the SRCCON block at our conference hotel, [the Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/), located right next to our venue. You can reserve one through our [dedicated booking link](https://www.graduatehotels.com/minneapolis/#/booking/step-1?group=1700311&arrive=10%2F15%2F2023&depart=10%2F20%2F2023)—once they sell out, you can still book at the regular rate.
 
 It's also fairly easy to get around Minneapolis via public transit (the light rail Green Line stops about 5-minute walk from McNamara), walking, bikeshare, or rideshare. Here are some other hotels not far from the [conference venue](https://maps.app.goo.gl/Di78fdxszyKgr9qw9):
 	
