@@ -480,13 +480,13 @@ h3.slider-control {
 
 .session-length-long,
 .session-length-alt,
+.session-social,
 .session-talk {
     background-color: PowderBlue;
 }
 
 .session-everyone,
 .session-break,
-.session-social,
 .open-block {
     background-color: WhiteSmoke;
 }
