@@ -151,6 +151,8 @@
                             <% if (session.room) { %><span class="session-room"><strong>Room:</strong> <%= smartypants(session.room) %></span><% } %>
                         </p>
                         <% } %>
+
+                        <% if (session.notepad) { %><p><i class="fa fa-file-text-o"></i> <strong><a href="<%= session.notepad %>">Session notes & resources</a></strong></p><% } %>
                         <% if (session.description) { %><%= marked(session.description) %><% } %>
 
                         <% if (session.twitter) { %>
