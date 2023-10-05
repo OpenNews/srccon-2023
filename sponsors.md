@@ -34,6 +34,12 @@ Interested in having your company or organization get involved? [Find out more a
 </div>
 
 
+<div class="page-divider"><span>Break sponsor</span></div>
+<div class="sponsor-block secondary">
+    <a href="https://www.theajp.org/"><img src="/media/img/partners/ajp.png" alt="American Journalism Project"></a>
+</div>
+
+
 <div class="page-divider"><span>Event sponsors</span></div>
 <div class="sponsor-block secondary">
     <a href="http://www.democracyfund.org"><img src="/media/img/partners/democracy_fund.png" alt="Democracy Fund"></a>
@@ -41,6 +47,10 @@ Interested in having your company or organization get involved? [Find out more a
 
 <div class="sponsor-block secondary">
     <a href="https://journalism.missouri.edu/"><img src="/media/img/partners/mizzou_journalism.png" alt="University of Missouri School of Journalism"></a>
+</div>
+
+<div class="sponsor-block secondary">
+    <a href="https://www.acs.org/"><img src="/media/img/partners/acs.png" alt="American Chemical Society"></a>
 </div>
 
 <div class="sponsor-block secondary">
