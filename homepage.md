@@ -5,9 +5,9 @@ permalink: /
 
 ### Be a part of SRCCON 2023
 
-# [Our schedule for SRCCON 2023 is here!](/schedule)
+# [Our schedule for SRCCON 2023!](/schedule)
 
-Check out the amazing sessions this community has planned for each day. And stay tuned, because we still have an evening program with social sessions and activities coming soon!
+Check out the amazing sessions this community has planned for each day. And stay tuned, because we're still adding to our evening program with social sessions and activities!
 
 ↪ [See the SRCCON schedule](/schedule) 🎉
 
@@ -24,17 +24,13 @@ Curious about how it all works? Learn more about [being a participant at SRCCON]
 
 ### About our program
 
-You can browse [this year's list of sessions](/program) or check out [the official conference schedule](/schedule), with more social activities coming soon.
+You can browse [this year's list of sessions](/program) or check out [the official conference schedule](/schedule). And we have a collaborative document devoted to things people are planning to bring and share, plus ideas for local activities to do together. Jump in here:
+
+* **[SRCCON 2023 Information Share!](https://etherpad.opennews.org/p/SRCCON2023)**
 
 We also love to share related events that people plan around SRCCON:
 
 * **[Perspectives: How Communities Handle Crises and Dream of Better Futures](https://www.eventbrite.com/e/perspectives-how-communities-handle-crises-and-dream-of-better-futures-tickets-720049737147?aff=oddtdtcreator)**: _Monday, Oct. 16, 7:30pm._ Perspectives is an ongoing project to help journalists find inspiration and strategies from other voices. This discussion will include Jeanelle Austin, Executive Director of the George Floyd Global Memorial, and Jessica Eckerstorfer, co-director of the Southeast Asian Diaspora Project.
-
-{% comment %}
-And we have a collaborative document devoted to things people are planning to bring and share, and ideas for local activities to do together.
-
-* SRCCON 2023 Information Share
-{% endcomment %}
 
 If you're planning a meetup or related event while you're in Minneapolis for SRCCON, [let us know](mailto:team@opennews.org) so we can share it with everyone!
 
@@ -54,7 +50,7 @@ We're excited to be back in Minneapolis! SRCCON 2023 will be in-person only. We'
 
 At SRCCON, we prioritize caring for each other. One way we'll do that this year is by masking throughout the conference while indoors and not actively eating, drinking, or facilitating. We're excited to be back at our longtime SRCCON venue, but it's a spot without windows that open or outdoor session spaces. Given that our options for improved air flow are limited, we've decided to use a tool we've all gotten very familiar with: masks!
 
-We will be modeling our COVID safety policies largely off of the [PyCon 2023 policies](https://us.pycon.org/2023/about/health-safety-guidelines), which means we will be requiring masking while indoors throughout the conference. We'll have ample masks available, and encourage participants to bring their preferred N95, KN95, or similar masks as well. Exceptions to masking indoors include while consuming food, for speakers when presenting, and when necessary to communicate with someone who is hearing impaired. 
+We will be modeling our COVID safety policies largely off of the [PyCon 2023 policies](https://us.pycon.org/2023/about/health-safety-guidelines), which means we will be requiring masking while indoors throughout the conference. We'll have ample masks available, and encourage participants to bring their preferred N95, KN95, or similar masks as well. Exceptions to masking indoors include while consuming food, for speakers when presenting, and when necessary to communicate with someone who is deaf or hard of hearing.
 
 We also strongly encourage all participants to be up to date on their vaccinations. We will further update this policy as we get closer to the event. If you have any questions or need further information now, please [reach out to us](mailto:srccon@opennews.org).
 
