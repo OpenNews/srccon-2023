@@ -210,6 +210,21 @@
     "notepad": ""
   },
   {
+    "id": "ask-a-manager",
+    "title": "Office Hours: Ask a manager anything",
+    "description": "Bring your lunch with you, and join stacy-marie ishmael for a conversation about management in journalism. This is an interactive session: bring whatever problems you're facing or questions you have about managing people and products. This is an off-the-record moment to discuss whatever's on your mind, and if you have private questions that you'd prefer not to share with a group, stacy-marie can pull up a chair for 1-1 conversations as well.",
+    "facilitators": "stacy-marie ishmael",
+    "time": "1:15-2:15pm",
+    "day": "Tuesday",
+    "timeblock": "tuesday-lunch",
+    "room": "Johnson",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": ""
+  },
+  {
     "id": "thinking-in-objects",
     "title": "Untangle complex systems by thinking in objects",
     "description": "Mental models are foundational to how people understand the world. When complex systems aren't clear, often it's because individual parts of the system aren't well-defined, or their relation to each other is unclear or inconsistent. Object-oriented UX ([big hat-tip to Sophia Prater](https://www.ooux.com/people/sophiavprater)) addresses this with an analytical approach to breaking down complexity. \n\nDuring this session, we'll look at how thinking in objects can help you assemble tools and stories that make sense to other people (and you!). While the OOUX discipline is grounded in object-oriented UI design, the principles can also help you map out things beyond digital products—think complex org structures, sprawling social systems, and physical environments. The framework will help you visualize key relationships so you can better understand and explain how they work.\n\nYou can bring your own project to the session or work with examples we'll have. You don't have to have UX design experience to get something out of this session! The primary goal is giving you another way to tackle complexity.",
