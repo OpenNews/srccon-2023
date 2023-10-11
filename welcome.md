@@ -57,9 +57,9 @@ Most people arrive Monday evening in order to get to SRCCON bright and early on 
 When people head home varies depending on flight times to their home city and other responsibilities. Some folks leave Wednesday night after SRCCON closes, while others leave sometime on Thursday. 
 
 ## What do I need to pack?
-In addition to your usual business trip preparation, there's a few additional items you might want to bring with you to SRCCON. Participants also often bring their favorite snacks or teas with them to share a taste of home with other attendees. So feel free to pack things you'd like to share! We even have a [whole etherpad for folks to talk about their plans](https://etherpad.opennews.org/p/SRCCON2023).
+In addition to your usual trip prep, feel free to bring things you'd love to share with other people at SRCCON! People often pack books to swap, stickers to hand out, or favorite snacks or teas to share a taste of home with other attendees. We have [an etherpad just for folks to talk about their plans](https://etherpad.opennews.org/p/SRCCON2023).
 
-On Tuesday evening, many folks also bring board games to play, and in fact there's already a [sign-up doc](https://etherpad.opennews.org/p/2023-game-night) where folks are sharing what games they plan to bring.
+People also often bring favorite games to play together Tuesday after dinner—[there's a sign-up doc right here](https://etherpad.opennews.org/p/2023-game-night) where folks are talking about those plans, too!
 
 ## What is the dress code?
 The way we've described it in the past is that at SRCCON, people might wear their _favorite_ hoodie. Meaning, it's pretty casual. OpenNews staff will literally all be in T-shirts (so you can find us for safety reasons!), but we hope that gives you a sense of things. If you're more comfortable in dressier clothes or just want to show off something new, you should go for it! You'll see a wide range of styles at SRCCON. We know that clothing selection can be a really tricky thing to navigate though, so if there's anything we can do to help you feel more comfortable, [just let us know](mailto:srccon@opennews.org).
