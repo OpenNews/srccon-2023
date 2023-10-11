@@ -3,28 +3,32 @@ section: homepage
 permalink: /
 ---
 
-### Be a part of SRCCON 2023
+### Welcome to SRCCON
 
-# [Our schedule for SRCCON 2023!](/schedule)
+# SRCCON 2023 is almost here!
 
-Check out the amazing sessions this community has planned for each day. And stay tuned, because we're still adding to our evening program with social sessions and activities!
+On October 17 & 18, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis. We're so excited to be in-person again for two days of amazing workshops, social sessions, and so many conversations.
 
-↪ [See the SRCCON schedule](/schedule) 🎉
+Here's what you need to know as you head to SRCCON:
 
-**How to get involved:** [Our call for participation form](/participation/form) is where to let us know you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $250 plus fees](/attendees/#tickets).
+↪ **[Check out the SRCCON schedule](/schedule)** 🎉  
+↪ [Read our attendee welcome guide](/welcome) 👋  
+↪ [More about logistics & participation](/attendees)  
+↪ [More about our COVID safety guidelines](#covid-safety)  
 
-There's still plenty of room for you! We'll keep our [participation form](/participation/form) open for attendees as long as we have space.
+If you'd still like to join us, it's not too late (but you should fill out [our attendee form](/participation/form) today)!
 
-**Key dates for your calendar**
+### About this year's program
 
-* **On a rolling basis**: We'll continue to review participation forms for attendees
-* **October 17-18**: SRCCON takes place in Minneapolis, MN
+Here's [our official conference schedule](/schedule)—we’ll get started at 9am on Tuesday and close by 6pm Wednesday. In between, there's so much to do:
 
-Curious about how it all works? Learn more about [being a participant at SRCCON](/attendees).
+* **The SRCCON program:** Our workshops are community-built and peer-led. We'll teach each other to use tech and data better, we'll reimagine journalism culture together, and we'll find collaborators who can support us down the road.
+* **Our evening program:** After dinner on Tuesday, SRCCON has casual sessions about life outside of work—hobbies, games, and other activities that let us hang out and connect over the things we love.
+* **Meals & snacks & breaks:** Our program includes lunch both days and dinner on Tuesday, plus plenty of snacks and drinks and long breaks so you can keep chatting.
 
-### About our program
+#### More things to do
 
-You can browse [this year's list of sessions](/program) or check out [the official conference schedule](/schedule). And we have a collaborative document devoted to things people are planning to bring and share, plus ideas for local activities to do together. Jump in here:
+SRCCON attendees love to bring games, tea, and other things to share, plus plan local activities together. Jump in here:
 
 * **[SRCCON 2023 Information Share!](https://etherpad.opennews.org/p/SRCCON2023)**
 
@@ -34,25 +38,15 @@ We also love to share related events that people plan around SRCCON:
 
 If you're planning a meetup or related event while you're in Minneapolis for SRCCON, [let us know](mailto:team@opennews.org) so we can share it with everyone!
 
-### When & where
-
-On October 17-18 in Minneapolis, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887).
-
-**If you’re figuring out travel plans:** We’ll get started at 9am on Tuesday and close by 6pm Wednesday. Most participants arrive Monday afternoon and head home Thursday morning.
-
-Our conference hotel, [the Graduate Minneapolis](https://www.graduatehotels.com/minneapolis/), is located right next to our venue. You can still book a room there at the regular rate, or check out these [other hotel options](/attendees#lodging).
-
-We're excited to be back in Minneapolis! SRCCON 2023 will be in-person only. We'll continue to offer virtual programming throughout the year, such as our [bi-weekly community calls](https://opennews.org/what/community/calls), and expect that several sessions will be documented publicly on our site Source.
-
 <span id="covid-safety"></span>
 
 #### COVID safety guidelines
 
 At SRCCON, we prioritize caring for each other. One way we'll do that this year is by masking throughout the conference while indoors and not actively eating, drinking, or facilitating. We're excited to be back at our longtime SRCCON venue, but it's a spot without windows that open or outdoor session spaces. Given that our options for improved air flow are limited, we've decided to use a tool we've all gotten very familiar with: masks!
 
-We will be modeling our COVID safety policies largely off of the [PyCon 2023 policies](https://us.pycon.org/2023/about/health-safety-guidelines), which means we will be requiring masking while indoors throughout the conference. We'll have ample masks available, and encourage participants to bring their preferred N95, KN95, or similar masks as well. Exceptions to masking indoors include while consuming food, for speakers when presenting, and when necessary to communicate with someone who is deaf or hard of hearing.
+We will be modeling our COVID safety policies largely off of the [PyCon 2023 policies](https://us.pycon.org/2023/about/health-safety-guidelines). We'll have ample masks available, and encourage participants to bring their preferred N95, KN95, or similar masks as well. Exceptions to masking indoors include while consuming food, for speakers when presenting, and when necessary to communicate with someone who is deaf or hard of hearing.
 
-We also strongly encourage all participants to be up to date on their vaccinations. We will further update this policy as we get closer to the event. If you have any questions or need further information now, please [reach out to us](mailto:srccon@opennews.org).
+We also strongly encourage all participants to be up to date on their vaccinations. If you have any questions or need further information, please [reach out to us](mailto:srccon@opennews.org).
 
 ### What you can expect
 
