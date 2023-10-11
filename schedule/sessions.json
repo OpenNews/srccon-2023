@@ -30,10 +30,10 @@
     "notepad": ""
   },
   {
-    "id": "your-data-is-racist",
-    "title": "\"Your data is racist...\": What does equitable data journalism look like when the data itself is biased?",
-    "description": "Data is EVERYWHERE. Our social interactions, activities and behaviors create a lot of data. And, your data, our data, is racist. This is more than chatbots going rogue. The collection, implementation and presentation in data journalism—the same frameworks which underpin many of our new emerging technologies—are inherently biased. With that in mind, how do we have meaningful conversations about data equity, social justice and data justice?",
-    "facilitators": "Dana Amihere, Sarah Schmalbach Beck",
+    "id": "using-lgbtq-data",
+    "title": "How to use bad and limited LGBTQ+ data responsibly",
+    "description": "Data can contextualize reporting about lived experience at scale. That's an increasingly important task in reporting on LGBTQ+ communities as nearly 500 anti-LGBTQ+ bills trickle through statehouses across the U.S.\n\nBut data on LGBTQ+ people is notoriously sparse and inconsistent, especially at the federal level. Often, journalists must instead rely on state or municipal data, advocacy group surveys or reports, and polls, which each come with their own unique problems. Data and data visualization lend authority and concretize trends in audiences' minds, so it's important to handle them responsibly—especially when reporting on communities living through active attempts to roll back their civil rights. We'll talk about what data's out there, how to use it in reporting and visual work, when not to use it, how to think through common reporting problems, and how to get editors on board with a pitch about tricky data.",
+    "facilitators": "Kae Petrin, Jasmine Mithani",
     "time": "10-11:15am",
     "day": "Tuesday",
     "timeblock": "tuesday-am-1",
@@ -42,7 +42,7 @@
     "social": "",
     "break": "",
     "transcription": "",
-    "notepad": "https://docs.google.com/document/d/11yQCPWQlbarlPgrw4u6nGOwcAOfoJcIFE8umeqN_drg/edit?usp=drive_link"
+    "notepad": "https://docs.google.com/document/d/1fawtiApG1vEzwwjmkh2mv3WMIsrUKTbrtnBEC6mnx8Y/edit?usp=drive_link"
   },
   {
     "id": "dont-believe-hype",
@@ -255,10 +255,10 @@
     "notepad": "https://docs.google.com/document/d/1XN4STiXxrj0MqHcQAwLj79LPT-XfUjDz5ti7Z7QpkjI/edit?usp=drive_link"
   },
   {
-    "id": "using-lgbtq-data",
-    "title": "How to use bad and limited LGBTQ+ data responsibly",
-    "description": "Data can contextualize reporting about lived experience at scale. That's an increasingly important task in reporting on LGBTQ+ communities as nearly 500 anti-LGBTQ+ bills trickle through statehouses across the U.S.\n\nBut data on LGBTQ+ people is notoriously sparse and inconsistent, especially at the federal level. Often, journalists must instead rely on state or municipal data, advocacy group surveys or reports, and polls, which each come with their own unique problems. Data and data visualization lend authority and concretize trends in audiences' minds, so it's important to handle them responsibly—especially when reporting on communities living through active attempts to roll back their civil rights. We'll talk about what data's out there, how to use it in reporting and visual work, when not to use it, how to think through common reporting problems, and how to get editors on board with a pitch about tricky data.",
-    "facilitators": "Kae Petrin, Jasmine Mithani",
+    "id": "your-data-is-racist",
+    "title": "\"Your data is racist...\": What does equitable data journalism look like when the data itself is biased?",
+    "description": "Data is EVERYWHERE. Our social interactions, activities and behaviors create a lot of data. And, your data, our data, is racist. This is more than chatbots going rogue. The collection, implementation and presentation in data journalism—the same frameworks which underpin many of our new emerging technologies—are inherently biased. With that in mind, how do we have meaningful conversations about data equity, social justice and data justice?",
+    "facilitators": "Dana Amihere, Sarah Schmalbach Beck",
     "time": "2:30-3:45pm",
     "day": "Tuesday",
     "timeblock": "tuesday-pm-1",
@@ -267,7 +267,7 @@
     "social": "",
     "break": "",
     "transcription": "",
-    "notepad": "https://docs.google.com/document/d/1fawtiApG1vEzwwjmkh2mv3WMIsrUKTbrtnBEC6mnx8Y/edit?usp=drive_link"
+    "notepad": "https://docs.google.com/document/d/11yQCPWQlbarlPgrw4u6nGOwcAOfoJcIFE8umeqN_drg/edit?usp=drive_link"
   },
   {
     "id": "smaller-newsrooms-data-reporting",
