@@ -119,7 +119,7 @@ That's our stenographer! Norma Miller from the [White Coat Captioning crew](http
 Meals are usually buffet style, with a variety of tasty options to meet all dietary needs (just be sure to let us know when you register or [email us](mailto:srccon@opennews.org) if anything changed). Meals are a communal experience at SRCCON. With folks gathering around tables to chat, sometimes to host entire sessions, and enjoy some camaraderie. Yes, sometimes folks catch up on work email as well, but there's a lot of chatting happening too. We provide lunch both days of SRCCON as well as dinner on Tuesday night, and snack breaks on both days so you never have to worry about finding sufficient energy to keep your brain moving.
 
 ## What are the non-caffeinated, non-alcoholic drink options like?
-Not ever SRCCON participant is into coffee or beer culture, so we make sure there's plenty of tea and uncaffeinated drinks at the coffee station and at the meals. In the evening, we provide a range of non-alcoholic drink options.
+Not every SRCCON participant is into coffee or beer culture, so we make sure there's plenty of tea and uncaffeinated drinks at the coffee station and during meals. In the evening, we provide a range of non-alcoholic drink options.
 
 ## What is this Tuesday evening thing all about? 
 We also want to make sure you get a chance to connect with everyone at SRCCON about the things you love to do in your free time, not just what you work on during the day. Our Tuesday night program is all about the "life" side of the work-life balance, and we'll spread throughout the conference venue for board games and lightning talks, get outside for field trips, and pull together hobby workshops and interesting conversations.
