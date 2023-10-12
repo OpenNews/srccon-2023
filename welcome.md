@@ -70,7 +70,7 @@ It's certainly possible, but not required by any means. You're coming to SRCCON 
 Some sessions might encourage people to do a bit of reading or look at some software before taking part—there are notes docs linked from each session [on the schedule](/schedule) where facilitators can share anything they want you to know.
 
 ## Do you want my pictures?
-We love SRCCON photos! If you take pictures during the conference (following the [guidelines below](#what-are-these-lanyard-colors-all-about)), feel free to tag us on social media (we're @srccon & @opennews on various platforms) or [email them to us](mailto:srccon@opennews.org). We love sharing your photos when we talk about SRCCON!
+We love SRCCON photos! If you take pictures during the conference (following the [guidelines below](#what-are-these-lanyard-colors-all-about)), feel free to tag us on social media (we're @srccon & @opennews on various platforms, and we'll be using the hashtag #SRCCON2023). You can also [email them right to us](mailto:srccon@opennews.org). We love sharing your photos when we talk about SRCCON!
 
 ## What happens at the opening to SRCCON?
 Most everyone arrives on time for SRCCON for some coffee or tea and quick introduction to the event and each other. We usually take a quick "turn to your neighbor and say hello" moment that is quite chaotic and loud, but a lot of fun. SRCCON is a great place to catch up with old friends, but we like to create little opportunities like the group welcome to meet a new person in a slightly structured, low-stakes way. (Some introvert-friendly structured socializing!)
