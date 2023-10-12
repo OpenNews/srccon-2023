@@ -3,7 +3,7 @@ url: https://2023.srccon.org
 markdown: kramdown
 kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-gems:
+plugins:
   - jekyll-redirect-from
 exclude: ['*.yml']
 collections:

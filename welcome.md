@@ -70,7 +70,7 @@ It's certainly possible, but not required by any means. You're coming to SRCCON 
 Some sessions might encourage people to do a bit of reading or look at some software before taking part—there are notes docs linked from each session [on the schedule](/schedule) where facilitators can share anything they want you to know.
 
 ## Do you want my pictures?
-We love SRCCON photos! If you take pictures during the conference (following the [guidelines below](#what-are-these-lanyard-colors-all-about)), feel free to tag us on social media (we're @srccon & @opennews on various platforms) or [email them to us](mailto:srccon@opennews.org). We love sharing your photos when we talk about SRCCON!
+We love SRCCON photos! If you take pictures during the conference (following the [guidelines below](#what-are-these-lanyard-colors-all-about)), feel free to tag us on social media (we're @srccon & @opennews on various platforms, and we'll be using the hashtag #SRCCON2023). You can also [email them right to us](mailto:srccon@opennews.org). We love sharing your photos when we talk about SRCCON!
 
 ## What happens at the opening to SRCCON?
 Most everyone arrives on time for SRCCON for some coffee or tea and quick introduction to the event and each other. We usually take a quick "turn to your neighbor and say hello" moment that is quite chaotic and loud, but a lot of fun. SRCCON is a great place to catch up with old friends, but we like to create little opportunities like the group welcome to meet a new person in a slightly structured, low-stakes way. (Some introvert-friendly structured socializing!)
@@ -119,7 +119,7 @@ That's our stenographer! Norma Miller from the [White Coat Captioning crew](http
 Meals are usually buffet style, with a variety of tasty options to meet all dietary needs (just be sure to let us know when you register or [email us](mailto:srccon@opennews.org) if anything changed). Meals are a communal experience at SRCCON. With folks gathering around tables to chat, sometimes to host entire sessions, and enjoy some camaraderie. Yes, sometimes folks catch up on work email as well, but there's a lot of chatting happening too. We provide lunch both days of SRCCON as well as dinner on Tuesday night, and snack breaks on both days so you never have to worry about finding sufficient energy to keep your brain moving.
 
 ## What are the non-caffeinated, non-alcoholic drink options like?
-Not ever SRCCON participant is into coffee or beer culture, so we make sure there's plenty of tea and uncaffeinated drinks at the coffee station and at the meals. In the evening, we provide a range of non-alcoholic drink options.
+Not every SRCCON participant is into coffee or beer culture, so we make sure there's plenty of tea and uncaffeinated drinks at the coffee station and during meals. In the evening, we provide a range of non-alcoholic drink options.
 
 ## What is this Tuesday evening thing all about? 
 We also want to make sure you get a chance to connect with everyone at SRCCON about the things you love to do in your free time, not just what you work on during the day. Our Tuesday night program is all about the "life" side of the work-life balance, and we'll spread throughout the conference venue for board games and lightning talks, get outside for field trips, and pull together hobby workshops and interesting conversations.
