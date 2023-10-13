@@ -1,7 +1,7 @@
 [
   {
     "id": "tuesday-registration",
-    "title": "Registration + Coffee & Tea at SRCCON",
+    "title": "Registration + coffee & tea at SRCCON",
     "description": "Get your badges and grab some caffeine as you gear up for the first day of SRCCON! (We'll put out some awesome morning snacks a little later into our conference day.)",
     "facilitators": "",
     "time": "8am",
@@ -331,7 +331,7 @@
   },
   {
     "id": "queer-tech",
-    "title": "Queer Tech",
+    "title": "Queer tech",
     "description": "How have LGBTQ+ communities shaped new technology development and how are they impacted by it? Much has been written about specific technologies and queer influence, queer responses, queer alternatives or queer resistance. We would use the workshop time to consider different kinds of technologies and design processes, and specifically those used in data or computational journalism—a journalism that deals in lived experiences, attempting to extend or uncover insights through data collection and analysis.\n\nWith data collection we find a tension between representation (the creation of SOGI questions, say) and “visibility” in federal surveys (without counting the government cannot respond to a community’s needs) and privacy (or more generally, a “refusal to cohere, to become legible, to see like a state” to quote Blas from 2012).\n\nData are just the start in some sense and we would also look at processes of technology development for/by queer communities, or development processes that “design from the margins” and center the previously decentered ([to paraphrase Rigot](https://www.belfercenter.org/publication/design-margins) and her work making LGBTQ+ dating apps “safe” in countries like Egypt.)\n\nWe could discuss examples in which these communities impacted technology development (for example, [Rundle says about Mastodon](https://www.hughrundle.net/home-invasion/), “The tools, protocols and culture of the fediverse were built by trans and queer feminists… If the people who built the fediverse generally sought to protect users, corporate platforms like Twitter seek to control their users.”) There are also pedagogical approaches to teaching technology that have been “queered” (The Tech Learning Collective and its casting of “magic” into the UNIX command line).\n\nThere is much to talk about and certainly the area is deep. For data journalists, it is good to be questioning our tools and processes and how they were designed and what gaps they leave. It is also good to consider our own development processes and how they could be changed to better serve our communities.",
     "facilitators": "Mark Hansen",
     "time": "4:15-5:30pm",
@@ -466,7 +466,7 @@
   },
   {
     "id": "salary-negotiation",
-    "title": "Let's talk salary negotiation",
+    "title": "Pay me what I'm worth: Salary negotiation workshop",
     "description": "Why should you negotiate your salary? How should you prepare for your negotiation? Are there any consequences for doing so, particularly for women and nonbinary folks? What else can you negotiate, besides your salary? All of these questions will be discussed during the workshop, which will be followed by a short Q&A session.",
     "facilitators": "Betsy Kim",
     "time": "7-7:50pm",
@@ -541,7 +541,7 @@
   },
   {
     "id": "crafts-quilting",
-    "title": "Crafts! Scrappy MiniQuilt Time",
+    "title": "Crafts! Scrappy miniquilt time",
     "description": "Learn the basics of making a quilt and fashion a scrappy miniature version to take home.",
     "facilitators": "CJ Sinner",
     "time": "8-8:50pm",
@@ -556,7 +556,7 @@
   },
   {
     "id": "wednesday-open",
-    "title": "Coffee & Tea at SRCCON",
+    "title": "Coffee & tea at SRCCON",
     "description": "Ease into the second morning at SRCCON with coffee, tea, and conversations before the sessions get started.",
     "facilitators": "",
     "time": "8am",
