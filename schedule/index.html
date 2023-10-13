@@ -153,6 +153,7 @@
                         <% } %>
 
                         <% if (session.notepad) { %><p><i class="fa fa-file-text-o"></i> <strong><a href="<%= session.notepad %>">Session notes & resources</a></strong></p><% } %>
+                        <% if (session.transcription) { %><p><i class="fa fa-cc"></i> <strong><a href="<%= session.transcription %>">Session transcription</a></strong></p><% } %>
                         <% if (session.description) { %><%= marked(session.description) %><% } %>
 
                         <% if (session.twitter) { %>
