@@ -5,18 +5,16 @@ permalink: /
 
 ### Welcome to SRCCON
 
-# SRCCON 2023 is almost here!
+# SRCCON 2023 is here!
 
 On October 17 & 18, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis. We're so excited to be in-person again for two days of amazing workshops, social sessions, and so many conversations.
 
-Here's what you need to know as you head to SRCCON:
+Here's what you need to know as you head into SRCCON:
 
 ↪ **[Check out the SRCCON schedule](/schedule)** 🎉  
 ↪ [Read our attendee welcome guide](/welcome) 👋  
 ↪ [More about logistics & participation](/attendees)  
 ↪ [More about our COVID safety guidelines](#covid-safety)  
-
-If you'd still like to join us, it's not too late (but you should fill out [our attendee form](/participation/form) today)!
 
 ### About this year's program
 
