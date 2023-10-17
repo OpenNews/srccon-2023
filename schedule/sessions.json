@@ -150,6 +150,21 @@
     "notepad": "https://docs.google.com/document/d/1iwVY8IlTabfFrkSnlX_VUfT0V7nRUE7lqIJKsIrWssA/edit?usp=drive_link"
   },
   {
+    "id": "measure-news-industry",
+    "title": "How can we better measure the news industry?",
+    "description": "Journalists have proved to be excellent at finding, collecting, and sharing data, but when it comes to our own industry we're often stuck with anecdotes and estimates. What data do we need about newsrooms and our industry? And what potential sources and methods would get us the information we need? In this session, we'll have a structured conversation about these questions, informed by an overview of past and existing data projects about newsroom diversity, salaries, layoffs, and the state of local news. We'll use an abbreviated \"information needs\" assessment that's more commonly applied to news audiences, and instead turn it on ourselves: How do we currently get information about our own industry, what are the gaps, and what would it take to fill them? We'll share ideas and barriers, and talk through plans.",
+    "facilitators": "Lisa Waananen Jones",
+    "time": "11:45am-1pm",
+    "day": "Tuesday",
+    "timeblock": "tuesday-am-2",
+    "room": "Ski-U-Mah",
+    "everyone": "",
+    "social": "",
+    "break": "",
+    "transcription": "",
+    "notepad": "https://docs.google.com/document/d/1qlGBnrCJgmiGF8krhLuT2tVnTOYZ6wa9vwmzuia3Diw/edit?usp=drive_link"
+  },
+  {
     "id": "editors-numeric-goals",
     "title": "For the first time, we gave our editors numeric goals (\"No, they aren't quotas.\"). Here's how that went.",
     "description": "One year ago, The Philadelphia Inquirer gave editors specific numeric goals to strive for, in addition to their journalistic goals. Here's how we picked which numbers to focus on, how we set the goals, how the editors reacted, and how we made adjustments for the second year. \n\nWe will address implementation challenges, including theoretical (is this even a good idea?), technical (how do we track these?) and cultural (how does this work within the culture of the newsroom?). We'll highlight successes in all three areas, too.\n\nAnd, most of all, we'd love to have folks talk about their own experiences in newsrooms that have established goals for journalists. What kinds of goals are motivating? What kinds of goals are detrimental to the work and/or to the journalists?",
@@ -600,10 +615,10 @@
     "notepad": "https://docs.google.com/document/d/15JwBiTNhTVwtyTR2NxUxbjiiLTJKv0UvwsWuaOD8UKg/edit?usp=drive_link"
   },
   {
-    "id": "measure-news-industry",
-    "title": "How can we better measure the news industry?",
-    "description": "Journalists have proved to be excellent at finding, collecting, and sharing data, but when it comes to our own industry we're often stuck with anecdotes and estimates. What data do we need about newsrooms and our industry? And what potential sources and methods would get us the information we need? In this session, we'll have a structured conversation about these questions, informed by an overview of past and existing data projects about newsroom diversity, salaries, layoffs, and the state of local news. We'll use an abbreviated \"information needs\" assessment that's more commonly applied to news audiences, and instead turn it on ourselves: How do we currently get information about our own industry, what are the gaps, and what would it take to fill them? We'll share ideas and barriers, and talk through plans.",
-    "facilitators": "Lisa Waananen Jones",
+    "id": "foi-laws-covid",
+    "title": "Using freedom of information laws to improve transparency on COVID-19 in California jails",
+    "description": "Without high-quality COVID-19 data, it is impossible to improve public health decision-making and outcomes. These limitations disproportionately affect vulnerable and marginalized groups such as incarcerated populations. In California, the most populous state in the United States, local jails that incarcerate over 80,000 people pending trial or sentencing on any given day have notoriously fallen through the cracks regarding COVID-19 data transparency. No state authority has established a technologically advanced and centralized effort to capture this critical data.\n\nThe [Covid In-Custody Project](https://covidincustody.org/) is a data journalism initiative that leverages freedom of information laws and technology such as image recognition, web scraping and analytics to aggregate data on infection and vaccination rates in hundreds of public records retrieved from law enforcement agencies. We uncovered over 60,000 positive cases and several deaths that were previously kept under wraps. Our data is integrated in the United States’ Centers for Disease Control’s (CDC) COVID-19 tracker for correctional facilities via a partnership with the University of California Los Angeles School of Law. The reluctance from law enforcement agencies to disclose public records and their backwardness in data documentation is a curious case of unbridled authority these institutions exercise.\n\nThrough our data collection and journalism, we show that the COVID-19 pandemic in California jails is a perfect example of the value and opportunity to bring technology, law and policy together in the public sector at a national, state and local level, and the consequences of not doing so.",
+    "facilitators": "Aparna Komarla",
     "time": "9:30-10:45am",
     "day": "Wednesday",
     "timeblock": "wednesday-am-1",
@@ -612,7 +627,7 @@
     "social": "",
     "break": "",
     "transcription": "",
-    "notepad": "https://docs.google.com/document/d/1qlGBnrCJgmiGF8krhLuT2tVnTOYZ6wa9vwmzuia3Diw/edit?usp=drive_link"
+    "notepad": "https://docs.google.com/document/d/1Q2Ko-M5Az1HQci1Iik7_f2S9HptTm4OA2OBjBT4zwJ4/edit?usp=drive_link"
   },
   {
     "id": "epistemology-for-journalists",
@@ -748,21 +763,6 @@
     "break": "",
     "transcription": "",
     "notepad": ""
-  },
-  {
-    "id": "foi-laws-covid",
-    "title": "Using freedom of information laws to improve transparency on COVID-19 in California jails",
-    "description": "Without high-quality COVID-19 data, it is impossible to improve public health decision-making and outcomes. These limitations disproportionately affect vulnerable and marginalized groups such as incarcerated populations. In California, the most populous state in the United States, local jails that incarcerate over 80,000 people pending trial or sentencing on any given day have notoriously fallen through the cracks regarding COVID-19 data transparency. No state authority has established a technologically advanced and centralized effort to capture this critical data.\n\nThe [Covid In-Custody Project](https://covidincustody.org/) is a data journalism initiative that leverages freedom of information laws and technology such as image recognition, web scraping and analytics to aggregate data on infection and vaccination rates in hundreds of public records retrieved from law enforcement agencies. We uncovered over 60,000 positive cases and several deaths that were previously kept under wraps. Our data is integrated in the United States’ Centers for Disease Control’s (CDC) COVID-19 tracker for correctional facilities via a partnership with the University of California Los Angeles School of Law. The reluctance from law enforcement agencies to disclose public records and their backwardness in data documentation is a curious case of unbridled authority these institutions exercise.\n\nThrough our data collection and journalism, we show that the COVID-19 pandemic in California jails is a perfect example of the value and opportunity to bring technology, law and policy together in the public sector at a national, state and local level, and the consequences of not doing so.",
-    "facilitators": "Aparna Komarla",
-    "time": "2-3:15pm",
-    "day": "Wednesday",
-    "timeblock": "wednesday-pm-1",
-    "room": "Memorial",
-    "everyone": "",
-    "social": "",
-    "break": "",
-    "transcription": "",
-    "notepad": "https://docs.google.com/document/d/1Q2Ko-M5Az1HQci1Iik7_f2S9HptTm4OA2OBjBT4zwJ4/edit?usp=drive_link"
   },
   {
     "id": "local-news-emergencies",
