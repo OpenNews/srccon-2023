@@ -3,18 +3,15 @@ section: homepage
 permalink: /
 ---
 
-### Welcome to SRCCON
+### We build this together
 
-# SRCCON 2023 is here!
+# Thank you SRCCON 2023!
 
-On October 17 & 18, SRCCON returns to the [McNamara Alumni Center](https://www.google.com/maps/place/McNamara+Alumni+Center/@44.975199,-93.2301774,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32d18ed516031:0x5f984f594ceab6ad!8m2!3d44.975199!4d-93.2279887) in Minneapolis. We're so excited to be in-person again for two days of amazing workshops, social sessions, and so many conversations.
+At our first in-person SRCCON since 2019, this community built an incredible space to imagine better futures for journalism together. Here’s what we did:
 
-Here's what you need to know as you head into SRCCON:
-
-↪ **[Check out the SRCCON schedule](/schedule)** 🎉  
-↪ [Read our attendee welcome guide](/welcome) 👋  
-↪ [More about logistics & participation](/attendees)  
-↪ [More about our COVID safety guidelines](#covid-safety)  
+* Came together for nearly 40 peer-led workshops, teaching each other new tools and techniques for journalism, exploring workflows and practices to help our teams level up, and spending time in the kind of values-first culture we want to bring into our newsrooms to make them more equitable places for everyone.
+* Led 10 more informal, social sessions during an evening program where we got to be together as people who do this work—sharing our creative projects, getting out into Minneapolis for a river walk and some hockey, playing games, making crafts, and chatting about all sorts of things we love.
+* Connected throughout our two days over tasty meals and nice, long snack breaks, opening up even more time to meet new people, catch up with old friends, and keep talking about all the ideas at this year's SRCCON.
 
 ### About this year's program
 
