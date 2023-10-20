@@ -3,7 +3,7 @@ section: homepage
 permalink: /
 ---
 
-### We all did this
+### We build this together
 
 # Thank you SRCCON 2023!
 
